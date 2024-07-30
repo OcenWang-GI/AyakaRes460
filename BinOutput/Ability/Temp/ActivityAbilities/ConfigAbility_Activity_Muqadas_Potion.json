@@ -5831,7 +5831,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -5840,7 +5840,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -5977,7 +5977,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -5986,7 +5986,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }

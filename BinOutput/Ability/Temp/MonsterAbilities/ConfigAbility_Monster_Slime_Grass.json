@@ -1045,7 +1045,7 @@
                   "entityTypes": ["Monster"]
                 }
               ],
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {

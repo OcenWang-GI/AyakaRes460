@@ -1276,8 +1276,8 @@
                   "ratio": "HPTreshhold"
                 }
               ],
-              "LKDJMGOJHAH": "HealConst",
-              "MEEACMKOLJF": "HealMaxHpRatio",
+              "amount": "HealConst",
+              "amountByCasterMaxHPRatio": "HealMaxHpRatio",
               "cdRatio": ""
             }
           ]

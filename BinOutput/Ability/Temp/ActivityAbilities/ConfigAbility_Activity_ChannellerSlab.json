@@ -1651,7 +1651,7 @@
                   "$type": "HKHCENMGHLH"
                 }
               ],
-              "OLMENJCGGJJ": "SelfHealRatio",
+              "amountByCasterMaxHPRatio": "SelfHealRatio",
               "cdRatio": ""
             },
             {

@@ -127,7 +127,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": "HealAmount",
+                  "amountByCasterMaxHPRatio": "HealAmount",
                   "cdRatio": ""
                 }
               ]

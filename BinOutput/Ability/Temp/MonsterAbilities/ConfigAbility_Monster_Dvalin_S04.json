@@ -6498,7 +6498,7 @@
         {
           "$type": "HealHP",
           "target": "CurLocalAvatar",
-          "OLMENJCGGJJ": 1.0,
+          "amountByCasterMaxHPRatio": 1.0,
           "muteHealEffect": true,
           "cdRatio": ""
         }

@@ -59,7 +59,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_Default",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_Default",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -94,7 +94,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_Default",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_Default",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -129,7 +129,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_1",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_1",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -164,7 +164,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_1",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_1",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -199,7 +199,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_2",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_2",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -234,7 +234,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_2",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_2",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -269,7 +269,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_3",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_3",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -304,7 +304,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_3",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_3",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -339,7 +339,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_4",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_4",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -374,7 +374,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_4",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_4",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -409,7 +409,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_5",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_5",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -444,7 +444,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_5",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_5",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },
@@ -479,7 +479,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "LoseHPRatio_Max",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio_Max",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 },

@@ -2044,7 +2044,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "LKDJMGOJHAH": [
+              "amount": [
                 "FIGHT_PROP_ELEMENT_MASTERY",
                 "Kaveh_Overgrow_HealHP_ElemMastery_Multiplier",
                 "MUL"

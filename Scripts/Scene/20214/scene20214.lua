@@ -1,3 +1,4 @@
+-- scene info
 scene_config = {
 	begin_pos = { x = -256.0, z = 0.0 },
 	size = { x = 512.0, z = 1024.0 },
@@ -8,10 +9,10 @@ scene_config = {
 	vision_anchor = { x = -1000.0, z = 0.0 }
 }
 
--- 所有的区块范围坐标
+-- block range coordinates
 block_rects = {
 	{ min = { x = -256.0, z = 0.0 }, max = { x = 256.0, z = 1024.0 } }
 }
 
--- 所有的区块
-blocks = {}
+-- blocks ids lua file
+blocks = { 20214 }

@@ -2260,7 +2260,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "LKDJMGOJHAH": 50.0,
+              "amount": 50.0,
               "cdRatio": ""
             }
           ]

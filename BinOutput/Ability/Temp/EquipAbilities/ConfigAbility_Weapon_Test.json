@@ -130,7 +130,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "LKDJMGOJHAH": "HealHP",
+              "amount": "HealHP",
               "cdRatio": ""
             }
           ]
@@ -197,7 +197,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealHP",
+              "amountByCasterMaxHPRatio": "HealHP",
               "cdRatio": ""
             }
           ]
@@ -337,7 +337,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealHP",
+              "amountByCasterMaxHPRatio": "HealHP",
               "cdRatio": ""
             }
           ]
@@ -713,7 +713,7 @@
       "onAbilityStart": [
         {
           "$type": "HealHP",
-          "LKDJMGOJHAH": "Rate",
+          "amount": "Rate",
           "cdRatio": ""
         },
         {
@@ -991,7 +991,7 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": "HealHP",
+              "amount": "HealHP",
               "cdRatio": ""
             }
           ]

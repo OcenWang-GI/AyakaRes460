@@ -1019,8 +1019,8 @@
             {
               "$type": "HealHP",
               "target": "CurLocalAvatar",
-              "LKDJMGOJHAH": "HealHPOnAdded_Const",
-              "MEEACMKOLJF": "HealHPOnAdded",
+              "amount": "HealHPOnAdded_Const",
+              "amountByCasterMaxHPRatio": "HealHPOnAdded",
               "cdRatio": ""
             }
           ],
@@ -1028,8 +1028,8 @@
             {
               "$type": "HealHP",
               "target": "CurLocalAvatar",
-              "LKDJMGOJHAH": "HealHP_Const",
-              "MEEACMKOLJF": "HealHP",
+              "amount": "HealHP_Const",
+              "amountByCasterMaxHPRatio": "HealHP",
               "cdRatio": ""
             }
           ]
@@ -1214,8 +1214,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "HealHP_Const_OnHittingOthers",
-              "MEEACMKOLJF": "HealHP_OnHittingOthers",
+              "amount": "HealHP_Const_OnHittingOthers",
+              "amountByCasterMaxHPRatio": "HealHP_OnHittingOthers",
               "cdRatio": ""
             },
             {
@@ -1255,8 +1255,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": ["HealHP_Const_OnHittingOthers", 4.0, "MUL"],
-              "MEEACMKOLJF": ["HealHP_OnHittingOthers", 4.0, "MUL"],
+              "amount": ["HealHP_Const_OnHittingOthers", 4.0, "MUL"],
+              "amountByCasterMaxHPRatio": ["HealHP_OnHittingOthers", 4.0, "MUL"],
               "cdRatio": ""
             },
             {
@@ -1630,8 +1630,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "HealHP_Const",
-              "MEEACMKOLJF": "HealHP",
+              "amount": "HealHP_Const",
+              "amountByCasterMaxHPRatio": "HealHP",
               "cdRatio": ""
             }
           ]
@@ -1956,7 +1956,7 @@
           "$type": "ReviveAvatar",
           "target": "AllPlayerAvatars",
           "cdDelta": true,
-          "OLMENJCGGJJ": "HealHP",
+          "amountByCasterMaxHPRatio": "HealHP",
           "cdRatio": ""
         }
       ],

@@ -6682,14 +6682,14 @@
           "successActions": [
             {
               "$type": "LoseHP",
-              "MEEACMKOLJF": 0.014999999664723873,
+              "amountByCasterMaxHPRatio": 0.014999999664723873,
               "MIIHJFFDKKC": ""
             }
           ],
           "failActions": [
             {
               "$type": "LoseHP",
-              "MEEACMKOLJF": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "MIIHJFFDKKC": ""
             }
           ]
@@ -6797,14 +6797,14 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.03500000014901161,
+                  "amountByCasterMaxHPRatio": 0.03500000014901161,
                   "MIIHJFFDKKC": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "MIIHJFFDKKC": ""
                 }
               ]
@@ -6823,14 +6823,14 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.05000000074505806,
+                  "amountByCasterMaxHPRatio": 0.05000000074505806,
                   "MIIHJFFDKKC": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.15000000596046448,
+                  "amountByCasterMaxHPRatio": 0.15000000596046448,
                   "MIIHJFFDKKC": ""
                 }
               ]

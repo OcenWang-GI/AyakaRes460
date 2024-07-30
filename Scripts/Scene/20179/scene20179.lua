@@ -1,4 +1,4 @@
--- map configuration
+-- scene config
 scene_config = {
 	begin_pos = { x = -512.0, z = -512.0 },
 	size = { x = 1024.0, z = 1024.0 },
@@ -9,16 +9,10 @@ scene_config = {
 	vision_anchor = { x = -1000.0, z = -1000.0 }
 }
 
--- all blocks
+-- ids blocks
 blocks = { 20179 }
 
--- All block bounds coordinates
+-- block bounds coordinates
 block_rects = {
 	{ min = { x = -512.0, z = -512.0 }, max = { x = 512.0, z = 512.0 } }
 }
-
--- Dummy Points
-dummy_points = { "dummy_points" }
-
--- Routes
-routes_config = { }

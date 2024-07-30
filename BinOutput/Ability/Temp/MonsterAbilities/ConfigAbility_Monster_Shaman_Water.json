@@ -844,12 +844,12 @@
                   "entityTypes": ["Monster"]
                 }
               ],
-              "OLMENJCGGJJ": "HEAL",
+              "amountByCasterMaxHPRatio": "HEAL",
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "HEAL",
+              "amountByCasterMaxHPRatio": "HEAL",
               "cdRatio": ""
             },
             {
@@ -1009,7 +1009,7 @@
                   "entityTypes": ["Monster"]
                 }
               ],
-              "OLMENJCGGJJ": "HEAL",
+              "amountByCasterMaxHPRatio": "HEAL",
               "cdRatio": ""
             },
             {

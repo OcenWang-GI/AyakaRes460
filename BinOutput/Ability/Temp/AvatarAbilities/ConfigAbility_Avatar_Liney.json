@@ -2115,7 +2115,7 @@
                 {
                   "$type": "LoseHP",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": "LoseHP_AmountRatio",
+                  "amountByCasterMaxHPRatio": "LoseHP_AmountRatio",
                   "LOMGEHKHEMK": "SafeHpRatio",
                   "MIIHJFFDKKC": ""
                 },
@@ -3719,7 +3719,7 @@
               "targetValue": 1.0
             }
           ],
-          "OLMENJCGGJJ": ["HealHP_AmountRatio", "LoseHp_Count", "MUL"],
+          "amountByCasterMaxHPRatio": ["HealHP_AmountRatio", "LoseHp_Count", "MUL"],
           "cdRatio": ""
         },
         {

@@ -531,8 +531,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "ElementalArt_HealHp_Const",
-              "MEEACMKOLJF": "ElementalArt_HealHp_Ratio",
+              "amount": "ElementalArt_HealHp_Const",
+              "amountByCasterMaxHPRatio": "ElementalArt_HealHp_Ratio",
               "cdRatio": ""
             },
             {
@@ -573,7 +573,7 @@
                   "compareType": "LessAndEqual"
                 }
               ],
-              "EJGDELKANMO": "LifeCostRatio",
+              "amountByCasterMaxHPRatio": "LifeCostRatio",
               "lethal": false,
               "MIIHJFFDKKC": ""
             }

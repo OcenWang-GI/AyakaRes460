@@ -27,7 +27,7 @@
               },
               {
                 "$type": "LoseHP",
-                "OLMENJCGGJJ": 1.0,
+                "amountByCasterMaxHPRatio": 1.0,
                 "MIIHJFFDKKC": ""
               }
             ]
@@ -108,8 +108,8 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "disableWhenLoading": true,
               "MIIHJFFDKKC": ""
             }
@@ -322,7 +322,7 @@
               },
               {
                 "$type": "LoseHP",
-                "OLMENJCGGJJ": 1.0,
+                "amountByCasterMaxHPRatio": 1.0,
                 "MIIHJFFDKKC": ""
               }
             ]
@@ -343,7 +343,7 @@
                   "attackTags": ["Skiff_Cannon_Small"]
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -354,7 +354,7 @@
                   "attackTags": ["Skiff_Cannon_Big"]
                 }
               ],
-              "LKDJMGOJHAH": 400.0,
+              "amount": 400.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -365,7 +365,7 @@
                   "attackTags": ["Sea_Bomb_Barrel"]
                 }
               ],
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "MIIHJFFDKKC": ""
             }
           ]

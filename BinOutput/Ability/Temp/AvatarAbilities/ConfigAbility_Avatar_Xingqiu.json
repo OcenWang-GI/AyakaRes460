@@ -634,7 +634,7 @@
                   "compareType": "MoreThan"
                 }
               ],
-              "MEEACMKOLJF": ["HealOnShieldBreak", "ShieldLevel", "MUL"],
+              "amountByCasterMaxHPRatio": ["HealOnShieldBreak", "ShieldLevel", "MUL"],
               "cdRatio": ""
             },
             {
@@ -968,7 +968,7 @@
                       "compareType": "MoreThan"
                     }
                   ],
-                  "MEEACMKOLJF": "HealOnShieldBreak",
+                  "amountByCasterMaxHPRatio": "HealOnShieldBreak",
                   "cdRatio": ""
                 },
                 {
@@ -2086,7 +2086,7 @@
                   "compareType": "MoreThan"
                 }
               ],
-              "MEEACMKOLJF": ["HealOnShieldBreak", "ShieldLevel", "MUL"],
+              "amountByCasterMaxHPRatio": ["HealOnShieldBreak", "ShieldLevel", "MUL"],
               "cdRatio": ""
             },
             {

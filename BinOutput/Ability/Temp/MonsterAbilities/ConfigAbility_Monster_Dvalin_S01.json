@@ -1562,7 +1562,7 @@
       "onAbilityStart": [
         {
           "$type": "LoseHP",
-          "KECHKKGGAPF": 0.009999999776482582,
+          "amountByTargetCurrentHPRatio": 0.009999999776482582,
           "MIIHJFFDKKC": ""
         }
       ]
@@ -3839,7 +3839,7 @@
               "compareType": "NoneOrEqual"
             }
           ],
-          "OLMENJCGGJJ": 0.009999999776482582,
+          "amountByCasterMaxHPRatio": 0.009999999776482582,
           "MIIHJFFDKKC": ""
         },
         {
@@ -3853,7 +3853,7 @@
               "ratio": 1.0
             }
           ],
-          "OLMENJCGGJJ": 0.004999999888241291,
+          "amountByCasterMaxHPRatio": 0.004999999888241291,
           "MIIHJFFDKKC": ""
         },
         {
@@ -3889,7 +3889,7 @@
               "compareType": "NoneOrEqual"
             }
           ],
-          "OLMENJCGGJJ": 0.004999999888241291,
+          "amountByCasterMaxHPRatio": 0.004999999888241291,
           "MIIHJFFDKKC": ""
         },
         {
@@ -3903,7 +3903,7 @@
               "ratio": 1.0
             }
           ],
-          "OLMENJCGGJJ": 0.003000000026077032,
+          "amountByCasterMaxHPRatio": 0.003000000026077032,
           "MIIHJFFDKKC": ""
         },
         {

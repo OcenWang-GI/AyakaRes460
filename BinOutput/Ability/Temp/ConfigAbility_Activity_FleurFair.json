@@ -345,7 +345,7 @@
                       "$type": "HealHP",
                       "target": "Caster",
                       "cdDelta": true,
-                      "MEEACMKOLJF": "Value_HPRatio",
+                      "amountByCasterMaxHPRatio": "Value_HPRatio",
                       "cdRatio": ""
                     },
                     {

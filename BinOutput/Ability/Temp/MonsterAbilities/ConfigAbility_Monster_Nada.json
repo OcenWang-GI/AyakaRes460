@@ -13312,7 +13312,7 @@
                   "ratio": 1.0
                 }
               ],
-              "GGLMMJHNGMO": 1.0,
+              "amountByTargetMaxHPRatio": 1.0,
               "enableInvincible": true,
               "amountByCasterMaxHPRatio": ""
             },
@@ -16551,7 +16551,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "GGLMMJHNGMO": 0.05000000074505806
+              "amountByTargetMaxHPRatio": 0.05000000074505806
             },
             {
               "$type": "FireEffect",
@@ -16668,7 +16668,7 @@
           "onRemoved": [
             {
               "$type": "HealHP",
-              "GGLMMJHNGMO": 1.0
+              "amountByTargetMaxHPRatio": 1.0
             }
           ]
         },
@@ -21547,7 +21547,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "GGLMMJHNGMO": 0.00039999998989515007,
+              "amountByTargetMaxHPRatio": 0.00039999998989515007,
               "enableInvincible": true,
               "enableLockHP": true,
               "amountByCasterMaxHPRatio": ""
@@ -21678,7 +21678,7 @@
                   "AMOLMKMMOME": "NoneOrEqual"
                 }
               ],
-              "GGLMMJHNGMO": 0.20000000298023224,
+              "amountByTargetMaxHPRatio": 0.20000000298023224,
               "enableInvincible": true,
               "enableLockHP": true,
               "amountByCasterMaxHPRatio": ""
@@ -21864,7 +21864,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "GGLMMJHNGMO": 0.0007999999797903001,
+              "amountByTargetMaxHPRatio": 0.0007999999797903001,
               "enableInvincible": true,
               "enableLockHP": true,
               "amountByCasterMaxHPRatio": ""
@@ -23157,7 +23157,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "GGLMMJHNGMO": 0.10000000149011612
+              "amountByTargetMaxHPRatio": 0.10000000149011612
             }
           ]
         },
@@ -23168,7 +23168,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "GGLMMJHNGMO": 0.029999999329447746
+              "amountByTargetMaxHPRatio": 0.029999999329447746
             }
           ]
         }

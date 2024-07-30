@@ -3076,7 +3076,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "KECHKKGGAPF": "Constellation_ExtraHot_HealRatio",
+              "amountByTargetCurrentHPRatio": "Constellation_ExtraHot_HealRatio",
               "cdRatio": ""
             }
           ],
@@ -3096,8 +3096,8 @@
               "PHMALDNHHLD": ""
             }
           ],
-          "LKDJMGOJHAH": "Heal_Const_Once",
-          "KECHKKGGAPF": "Heal_Ratio_Once",
+          "amount": "Heal_Const_Once",
+          "amountByTargetCurrentHPRatio": "Heal_Ratio_Once",
           "cdRatio": "Charlotte_ElementalBurst_Heal"
         }
       ]
@@ -3336,8 +3336,8 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": "Stage_HealConst",
-              "KECHKKGGAPF": "Stage_HealRatio",
+              "amount": "Stage_HealConst",
+              "amountByTargetCurrentHPRatio": "Stage_HealRatio",
               "cdRatio": "Charlotte_ElementalBurst_Heal"
             }
           ]
@@ -4534,7 +4534,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "KECHKKGGAPF": "Constellation_ExtraHot_HealRatio",
+              "amountByTargetCurrentHPRatio": "Constellation_ExtraHot_HealRatio",
               "cdRatio": ""
             }
           ]
@@ -4956,7 +4956,7 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "KECHKKGGAPF": "ExtraCamera_HealRatio",
+              "amountByTargetCurrentHPRatio": "ExtraCamera_HealRatio",
               "cdRatio": "Charlotte_ElementalBurst_Heal"
             }
           ]
@@ -4971,7 +4971,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "KECHKKGGAPF": "Constellation_ExtraHot_HealRatio",
+              "amountByTargetCurrentHPRatio": "Constellation_ExtraHot_HealRatio",
               "cdRatio": ""
             }
           ],

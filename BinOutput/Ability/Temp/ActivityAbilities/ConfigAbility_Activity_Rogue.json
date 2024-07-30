@@ -612,7 +612,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": [
+              "amount": [
                 "HealHpOnce_Base",
                 "HealHpOnce_Base",
                 "R_Spell_Water_HealHpOnce_HealUp",
@@ -673,7 +673,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": [
+              "amount": [
                 "HealHpOnce_Base_Loop",
                 "HealHpOnce_Base_Loop",
                 "R_Spell_Water_HealHpOnce_HealUp",
@@ -5216,7 +5216,7 @@
                   "$type": "HKHCENMGHLH"
                 }
               ],
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "cdRatio": ""
             },
             {

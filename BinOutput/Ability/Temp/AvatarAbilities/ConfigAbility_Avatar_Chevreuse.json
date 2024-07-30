@@ -774,8 +774,8 @@
               "$type": "HealHP",
               "target": "CurLocalAvatar",
               "cdDelta": true,
-              "LKDJMGOJHAH": "Heal_Const",
-              "MEEACMKOLJF": "Heal_HPRatio",
+              "amount": "Heal_Const",
+              "amountByCasterMaxHPRatio": "Heal_HPRatio",
               "cdRatio": ""
             },
             {
@@ -831,7 +831,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "MEEACMKOLJF": "HPRatio",
+              "amountByCasterMaxHPRatio": "HPRatio",
               "cdRatio": ""
             },
             {

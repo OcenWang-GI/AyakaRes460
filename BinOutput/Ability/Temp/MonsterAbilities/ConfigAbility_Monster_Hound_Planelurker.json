@@ -4646,8 +4646,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": 25.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 25.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -4667,8 +4667,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": 25.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 25.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -4698,8 +4698,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": 25.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 25.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -4719,8 +4719,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": 25.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 25.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,

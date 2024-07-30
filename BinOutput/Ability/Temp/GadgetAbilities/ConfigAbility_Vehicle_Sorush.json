@@ -299,7 +299,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {
@@ -317,7 +317,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "OLMENJCGGJJ": 0.006500000134110451,
+              "amountByCasterMaxHPRatio": 0.006500000134110451,
               "cdRatio": ""
             },
             {
@@ -348,7 +348,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {
@@ -366,7 +366,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "OLMENJCGGJJ": 0.006500000134110451,
+              "amountByCasterMaxHPRatio": 0.006500000134110451,
               "cdRatio": ""
             },
             {

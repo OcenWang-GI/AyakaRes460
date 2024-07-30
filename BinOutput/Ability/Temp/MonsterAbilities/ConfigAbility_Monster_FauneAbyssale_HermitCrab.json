@@ -1835,7 +1835,7 @@
                 },
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.20000000298023224,
+                  "amountByCasterMaxHPRatio": 0.20000000298023224,
                   "enableInvincible": true,
                   "MIIHJFFDKKC": ""
                 }
@@ -1921,7 +1921,7 @@
                     },
                     {
                       "$type": "LoseHP",
-                      "MEEACMKOLJF": 0.6000000238418579,
+                      "amountByCasterMaxHPRatio": 0.6000000238418579,
                       "MIIHJFFDKKC": ""
                     },
                     {
@@ -1958,7 +1958,7 @@
                       "failActions": [
                         {
                           "$type": "LoseHP",
-                          "MEEACMKOLJF": 0.10000000149011612,
+                          "amountByCasterMaxHPRatio": 0.10000000149011612,
                           "enableInvincible": true,
                           "MIIHJFFDKKC": ""
                         },

@@ -3931,7 +3931,7 @@
             {
               "$type": "LoseHP",
               "target": "CurLocalAvatar",
-              "OLMENJCGGJJ": 0.014999999664723873,
+              "amountByCasterMaxHPRatio": 0.014999999664723873,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -3951,7 +3951,7 @@
             {
               "$type": "LoseHP",
               "target": "CurLocalAvatar",
-              "OLMENJCGGJJ": 0.014999999664723873,
+              "amountByCasterMaxHPRatio": 0.014999999664723873,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,

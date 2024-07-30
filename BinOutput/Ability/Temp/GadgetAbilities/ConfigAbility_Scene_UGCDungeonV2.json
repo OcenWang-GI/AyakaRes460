@@ -5546,7 +5546,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.25,
+              "amountByCasterMaxHPRatio": 0.25,
               "cdRatio": ""
             }
           ]

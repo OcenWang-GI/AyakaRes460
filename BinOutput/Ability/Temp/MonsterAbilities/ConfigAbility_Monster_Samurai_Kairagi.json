@@ -3475,7 +3475,7 @@
                       "ratio": 0.0
                     }
                   ],
-                  "MEEACMKOLJF": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 },
                 {
@@ -3501,7 +3501,7 @@
                       ]
                     }
                   ],
-                  "MEEACMKOLJF": 0.5,
+                  "amountByCasterMaxHPRatio": 0.5,
                   "cdRatio": ""
                 },
                 {
@@ -3598,7 +3598,7 @@
                   ]
                 }
               ],
-              "MEEACMKOLJF": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "cdRatio": ""
             },
             {
@@ -4526,7 +4526,7 @@
                   "ratio": 0.0
                 }
               ],
-              "MEEACMKOLJF": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {
@@ -4538,7 +4538,7 @@
                   "ratio": 1.0
                 }
               ],
-              "MEEACMKOLJF": 0.029999999329447746,
+              "amountByCasterMaxHPRatio": 0.029999999329447746,
               "cdRatio": ""
             },
             {
@@ -4550,7 +4550,7 @@
                   "ratio": 2.0
                 }
               ],
-              "MEEACMKOLJF": 0.009999999776482582,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "cdRatio": ""
             },
             {

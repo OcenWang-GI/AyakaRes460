@@ -932,7 +932,7 @@
                   "ratio": 0.6000000238418579
                 }
               ],
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "lethal": false,
               "MIIHJFFDKKC": ""
             },
@@ -1035,7 +1035,7 @@
                   "ratio": 0.6000000238418579
                 }
               ],
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "lethal": false,
               "MIIHJFFDKKC": ""
             },

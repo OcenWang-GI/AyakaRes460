@@ -367,7 +367,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "KECHKKGGAPF": "TasteOfCold",
+                  "amountByTargetCurrentHPRatio": "TasteOfCold",
                   "cdRatio": ""
                 }
               ]

@@ -1347,7 +1347,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]
@@ -1372,7 +1372,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]
@@ -1965,7 +1965,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]
@@ -1990,7 +1990,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]

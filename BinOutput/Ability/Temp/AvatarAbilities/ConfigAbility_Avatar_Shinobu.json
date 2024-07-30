@@ -365,7 +365,7 @@
         {
           "$type": "LoseHP",
           "cdDelta": true,
-          "EJGDELKANMO": 0.30000001192092896,
+          "amountByCasterMaxHPRatio": 0.30000001192092896,
           "LOMGEHKHEMK": 0.20000000298023224,
           "lethal": false,
           "MIIHJFFDKKC": ""
@@ -809,14 +809,14 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": [
+              "amount": [
                 "ElementalArt_Heal_Amount",
                 "Shinobu_PermanentSkill_2_P1",
                 "FIGHT_PROP_ELEMENT_MASTERY",
                 "MUL",
                 "ADD"
               ],
-              "MEEACMKOLJF": "ElementalArt_Heal_MaxHP_Percentage",
+              "amountByCasterMaxHPRatio": "ElementalArt_Heal_MaxHP_Percentage",
               "cdRatio": ""
             }
           ]

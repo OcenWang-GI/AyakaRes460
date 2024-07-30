@@ -348,8 +348,8 @@
                       "$type": "CKJNCONHFNH"
                     }
                   ],
-                  "LKDJMGOJHAH": 450.0,
-                  "OLMENJCGGJJ": 0.029999999329447746,
+                  "amount": 450.0,
+                  "amountByCasterMaxHPRatio": 0.029999999329447746,
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "disableWhenLoading": true,
@@ -384,8 +384,8 @@
                       "$type": "CKJNCONHFNH"
                     }
                   ],
-                  "LKDJMGOJHAH": 150.0,
-                  "OLMENJCGGJJ": 0.009999999776482582,
+                  "amount": 150.0,
+                  "amountByCasterMaxHPRatio": 0.009999999776482582,
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "disableWhenLoading": true,
@@ -851,8 +851,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1273,8 +1273,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.029999999329447746,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.029999999329447746,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1299,8 +1299,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1324,8 +1324,8 @@
                   "ratio": 1.0
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
-              "OLMENJCGGJJ": 0.0,
+              "amount": 100.0,
+              "amountByCasterMaxHPRatio": 0.0,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1622,8 +1622,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.029999999329447746,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.029999999329447746,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1648,8 +1648,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -1673,8 +1673,8 @@
                   "ratio": 1.0
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
-              "OLMENJCGGJJ": 0.0,
+              "amount": 100.0,
+              "amountByCasterMaxHPRatio": 0.0,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,

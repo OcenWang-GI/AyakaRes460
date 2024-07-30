@@ -19,7 +19,7 @@
       "onAdded": [
         {
           "$type": "LoseHP",
-          "OLMENJCGGJJ": 0.30000001192092896,
+          "amountByCasterMaxHPRatio": 0.30000001192092896,
           "lethal": false,
           "MIIHJFFDKKC": ""
         }
@@ -2096,7 +2096,7 @@
                   ]
                 }
               ],
-              "OLMENJCGGJJ": 0.019999999552965164,
+              "amountByCasterMaxHPRatio": 0.019999999552965164,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -2270,7 +2270,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.15000000596046448,
+              "amountByCasterMaxHPRatio": 0.15000000596046448,
               "MIIHJFFDKKC": ""
             }
           ]

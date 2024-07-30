@@ -4452,8 +4452,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "ElementalBurst_Heal_Base",
-              "KECHKKGGAPF": "ElementalBurst_Heal_AttackRatio",
+              "amount": "ElementalBurst_Heal_Base",
+              "amountByTargetCurrentHPRatio": "ElementalBurst_Heal_AttackRatio",
               "cdRatio": ""
             }
           ],
@@ -4973,8 +4973,8 @@
               "PHMALDNHHLD": ""
             }
           ],
-          "LKDJMGOJHAH": "ElementalBurst_Drone_Heal_Base",
-          "KECHKKGGAPF": "ElementalBurst_Drone_Heal_AttackRatio",
+          "amount": "ElementalBurst_Drone_Heal_Base",
+          "amountByTargetCurrentHPRatio": "ElementalBurst_Drone_Heal_AttackRatio",
           "cdRatio": ""
         }
       ]
@@ -6043,7 +6043,7 @@
                   "ratio": 1.0
                 }
               ],
-              "KECHKKGGAPF": "Constellation_Heal_AttackRatio_Lv1",
+              "amountByTargetCurrentHPRatio": "Constellation_Heal_AttackRatio_Lv1",
               "cdRatio": ""
             },
             {
@@ -6064,7 +6064,7 @@
                   "ratio": 2.0
                 }
               ],
-              "KECHKKGGAPF": "Constellation_Heal_AttackRatio_Lv2",
+              "amountByTargetCurrentHPRatio": "Constellation_Heal_AttackRatio_Lv2",
               "cdRatio": ""
             },
             {
@@ -6085,7 +6085,7 @@
                   "ratio": 3.0
                 }
               ],
-              "KECHKKGGAPF": "Constellation_Heal_AttackRatio_Lv3",
+              "amountByTargetCurrentHPRatio": "Constellation_Heal_AttackRatio_Lv3",
               "cdRatio": ""
             }
           ]

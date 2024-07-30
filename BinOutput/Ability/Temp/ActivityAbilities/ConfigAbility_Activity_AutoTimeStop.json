@@ -263,7 +263,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HealHp_Ratio",
+              "amountByCasterMaxHPRatio": "HealHp_Ratio",
               "cdRatio": ""
             }
           ]

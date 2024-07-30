@@ -2309,7 +2309,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.10000000149011612,
                     0.009999999776482582,
                     "Extra_Damage",
@@ -2322,7 +2322,7 @@
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.1599999964237213,
                     0.009999999776482582,
                     "Extra_Damage",
@@ -3112,7 +3112,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.10000000149011612,
                     0.009999999776482582,
                     "Extra_Damage",
@@ -3125,7 +3125,7 @@
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.1599999964237213,
                     0.009999999776482582,
                     "Extra_Damage",
@@ -9700,7 +9700,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.10000000149011612,
                     0.009999999776482582,
                     "Extra_Damage",
@@ -9713,7 +9713,7 @@
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     0.1599999964237213,
                     0.009999999776482582,
                     "Extra_Damage",

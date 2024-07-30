@@ -11055,7 +11055,7 @@
                   "attackTags": ["LaserCannonBullet"]
                 }
               ],
-              "OLMENJCGGJJ": "hit_lose_ratio",
+              "amountByCasterMaxHPRatio": "hit_lose_ratio",
               "MIIHJFFDKKC": ""
             },
             {
@@ -12965,7 +12965,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "muteHealEffect": true,
               "cdRatio": ""
             }
@@ -12973,7 +12973,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "muteHealEffect": true,
               "cdRatio": ""
             }

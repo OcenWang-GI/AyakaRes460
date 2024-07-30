@@ -1639,7 +1639,7 @@
             {
               "$type": "HealHP",
               "target": "CurTeamAvatars",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -1693,7 +1693,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {
@@ -1766,7 +1766,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             },
             {

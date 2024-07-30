@@ -489,8 +489,8 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 150.0,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amount": 150.0,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "disableWhenLoading": true,
               "MIIHJFFDKKC": ""
             }
@@ -674,7 +674,7 @@
                   "attackTags": ["Skiff_Cannon_Small"]
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -685,7 +685,7 @@
                   "attackTags": ["Skiff_Cannon_Big"]
                 }
               ],
-              "LKDJMGOJHAH": 400.0,
+              "amount": 400.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -696,7 +696,7 @@
                   "attackTags": ["Sea_Bomb_Barrel"]
                 }
               ],
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "MIIHJFFDKKC": ""
             }
           ]
@@ -756,8 +756,8 @@
                   "attackTags": ["Sea_Bomb_Barrel", "Skiff_Cannon_Big"]
                 }
               ],
-              "LKDJMGOJHAH": 0.0,
-              "OLMENJCGGJJ": 0.3499999940395355,
+              "amount": 0.0,
+              "amountByCasterMaxHPRatio": 0.3499999940395355,
               "disableWhenLoading": true,
               "MIIHJFFDKKC": ""
             }
@@ -1376,7 +1376,7 @@
                   "attackTags": ["Skiff_Cannon_Small"]
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -1387,7 +1387,7 @@
                   "attackTags": ["Skiff_Cannon_Big"]
                 }
               ],
-              "LKDJMGOJHAH": 400.0,
+              "amount": 400.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -1398,7 +1398,7 @@
                   "attackTags": ["Sea_Bomb_Barrel"]
                 }
               ],
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "MIIHJFFDKKC": ""
             }
           ]

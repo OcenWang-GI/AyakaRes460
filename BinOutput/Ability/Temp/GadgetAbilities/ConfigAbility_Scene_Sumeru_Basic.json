@@ -2304,7 +2304,7 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "enableInvincible": true,
               "disableWhenLoading": true,
               "useMeta": true,
@@ -2322,7 +2322,7 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "enableInvincible": true,
               "disableWhenLoading": true,
               "useMeta": true,
@@ -2347,7 +2347,7 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "enableInvincible": true,
               "disableWhenLoading": true,
               "useMeta": true,
@@ -2365,7 +2365,7 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "enableInvincible": true,
               "disableWhenLoading": true,
               "useMeta": true,

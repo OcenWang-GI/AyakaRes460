@@ -1304,7 +1304,7 @@
                   "compareType": "LessAndEqual"
                 }
               ],
-              "MEEACMKOLJF": "LoseHPRatio",
+              "amountByCasterMaxHPRatio": "LoseHPRatio",
               "lethal": false,
               "INCFOKJNKNO": true,
               "MIIHJFFDKKC": "Player_Water_E"
@@ -2157,8 +2157,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "HealOnceBase",
-              "OLMENJCGGJJ": "HealOnceRatioT6",
+              "amount": "HealOnceBase",
+              "amountByCasterMaxHPRatio": "HealOnceRatioT6",
               "cdRatio": ""
             }
           ]
@@ -2181,8 +2181,8 @@
         {
           "$type": "HealHP",
           "cdDelta": true,
-          "LKDJMGOJHAH": "HealOnceBase",
-          "MEEACMKOLJF": "HealOnceRatio",
+          "amount": "HealOnceBase",
+          "amountByCasterMaxHPRatio": "HealOnceRatio",
           "cdRatio": ""
         },
         {

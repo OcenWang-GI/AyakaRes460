@@ -4768,7 +4768,7 @@
                   "$type": "HKHCENMGHLH"
                 }
               ],
-              "OLMENJCGGJJ": "GeneralSkill_WaterEnhance_SelfHeal",
+              "amountByCasterMaxHPRatio": "GeneralSkill_WaterEnhance_SelfHeal",
               "cdRatio": ""
             },
             {
@@ -5400,7 +5400,7 @@
                       "compareType": "NoneOrEqual"
                     }
                   ],
-                  "OLMENJCGGJJ": 0.05000000074505806,
+                  "amountByCasterMaxHPRatio": 0.05000000074505806,
                   "cdRatio": ""
                 },
                 {
@@ -5413,7 +5413,7 @@
                       "ratio": 1.0
                     }
                   ],
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]

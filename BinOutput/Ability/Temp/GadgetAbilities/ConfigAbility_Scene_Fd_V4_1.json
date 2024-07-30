@@ -6041,7 +6041,7 @@
                   "attackTags": ["Skiff_Cannon_Small"]
                 }
               ],
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -6052,7 +6052,7 @@
                   "attackTags": ["Skiff_Cannon_Big"]
                 }
               ],
-              "LKDJMGOJHAH": 400.0,
+              "amount": 400.0,
               "MIIHJFFDKKC": ""
             },
             {
@@ -6063,7 +6063,7 @@
                   "attackTags": ["Sea_Bomb_Barrel"]
                 }
               ],
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "MIIHJFFDKKC": ""
             }
           ]

@@ -1260,7 +1260,7 @@
         },
         {
           "$type": "LoseHP",
-          "EJGDELKANMO": "CrimsonPlum_LifeCostRatio",
+          "amountByCasterMaxHPRatio": "CrimsonPlum_LifeCostRatio",
           "lethal": false,
           "MIIHJFFDKKC": ""
         },
@@ -1638,7 +1638,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "MEEACMKOLJF": "VermilionBite_HPRestore",
+              "amountByCasterMaxHPRatio": "VermilionBite_HPRestore",
               "cdRatio": ""
             },
             {
@@ -1653,7 +1653,7 @@
                   "setTarget": true
                 }
               ],
-              "MEEACMKOLJF": "VermilionBite_LowHP_HPRestore",
+              "amountByCasterMaxHPRatio": "VermilionBite_LowHP_HPRestore",
               "cdRatio": ""
             }
           ]

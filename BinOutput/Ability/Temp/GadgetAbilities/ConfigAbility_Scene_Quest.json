@@ -2866,7 +2866,7 @@
                   "ratio": "PerHitLoseHp"
                 }
               ],
-              "OLMENJCGGJJ": "PerHitLoseHp",
+              "amountByCasterMaxHPRatio": "PerHitLoseHp",
               "MIIHJFFDKKC": ""
             },
             {
@@ -2950,7 +2950,7 @@
                   "ratio": "PerHitLoseHp"
                 }
               ],
-              "OLMENJCGGJJ": "PerHitLoseHp",
+              "amountByCasterMaxHPRatio": "PerHitLoseHp",
               "MIIHJFFDKKC": ""
             },
             {

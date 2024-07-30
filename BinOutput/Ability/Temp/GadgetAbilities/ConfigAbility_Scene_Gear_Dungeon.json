@@ -702,7 +702,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "cdRatio": ""
             }
           ]

@@ -1431,7 +1431,7 @@
               "ratio": 0.0
             }
           ],
-          "OLMENJCGGJJ": [0.125, "GetRebornElemCount", "MUL"],
+          "amountByCasterMaxHPRatio": [0.125, "GetRebornElemCount", "MUL"],
           "cdRatio": ""
         },
         {
@@ -1443,7 +1443,7 @@
               "ratio": 1.0
             }
           ],
-          "OLMENJCGGJJ": 0.05000000074505806,
+          "amountByCasterMaxHPRatio": 0.05000000074505806,
           "cdRatio": ""
         },
         {
@@ -8651,7 +8651,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]

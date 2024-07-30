@@ -793,8 +793,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": [0.13300000131130219, "Monster_Max_Attack", "MUL"],
-              "OLMENJCGGJJ": 0.15000000596046448,
+              "amount": [0.13300000131130219, "Monster_Max_Attack", "MUL"],
+              "amountByCasterMaxHPRatio": 0.15000000596046448,
               "LOMGEHKHEMK": 0.15000000596046448,
               "lethal": false,
               "enableInvincible": true,
@@ -815,8 +815,8 @@
                   "$type": "PIJDLFEPGPD"
                 }
               ],
-              "LKDJMGOJHAH": [0.13300000131130219, "Monster_Max_Attack", "MUL"],
-              "OLMENJCGGJJ": 0.15000000596046448,
+              "amount": [0.13300000131130219, "Monster_Max_Attack", "MUL"],
+              "amountByCasterMaxHPRatio": 0.15000000596046448,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,

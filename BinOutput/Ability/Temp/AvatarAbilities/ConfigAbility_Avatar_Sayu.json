@@ -2049,8 +2049,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "Heal_BaseAmount",
-              "KECHKKGGAPF": "Heal_AttackRatio",
+              "amount": "Heal_BaseAmount",
+              "amountByTargetCurrentHPRatio": "Heal_AttackRatio",
               "cdRatio": ""
             }
           ]
@@ -2445,12 +2445,12 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "LKDJMGOJHAH": [
+                  "amount": [
                     "Heal_BaseAmount",
                     "Constellation_6_Heal",
                     "ADD"
                   ],
-                  "KECHKKGGAPF": "Heal_AttackRatio",
+                  "amountByTargetCurrentHPRatio": "Heal_AttackRatio",
                   "cdRatio": ""
                 },
                 {
@@ -2474,7 +2474,7 @@
                       "isSelf": false
                     }
                   ],
-                  "LKDJMGOJHAH": [
+                  "amount": [
                     "Heal_BaseAmount",
                     "PermanentSkill_2_RangeRatio",
                     "MUL",
@@ -2483,7 +2483,7 @@
                     "MUL",
                     "ADD"
                   ],
-                  "KECHKKGGAPF": [
+                  "amountByTargetCurrentHPRatio": [
                     "Heal_AttackRatio",
                     "PermanentSkill_2_RangeRatio",
                     "MUL"
@@ -2504,12 +2504,12 @@
               "failActions": [
                 {
                   "$type": "HealHP",
-                  "LKDJMGOJHAH": [
+                  "amount": [
                     "Heal_BaseAmount",
                     "Constellation_6_Heal",
                     "ADD"
                   ],
-                  "KECHKKGGAPF": "Heal_AttackRatio",
+                  "amountByTargetCurrentHPRatio": "Heal_AttackRatio",
                   "cdRatio": ""
                 },
                 {
@@ -3569,7 +3569,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": [
+              "amount": [
                 "Heal_BaseAmount",
                 "FIGHT_PROP_ELEMENT_MASTERY",
                 "Heal_MasteryRatio",

@@ -1469,7 +1469,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "MEEACMKOLJF": 0.11100000143051147,
+              "amountByCasterMaxHPRatio": 0.11100000143051147,
               "cdRatio": ""
             },
             {

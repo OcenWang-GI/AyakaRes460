@@ -13,7 +13,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.009999999776482582,
+              "amountByCasterMaxHPRatio": 0.009999999776482582,
               "cdRatio": ""
             }
           ],
@@ -21,7 +21,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 8.0,
+              "amount": 8.0,
               "cdRatio": ""
             }
           ],
@@ -49,14 +49,14 @@
           "$type": "HealHP",
           "target": "Target",
           "cdDelta": true,
-          "OLMENJCGGJJ": 0.0,
+          "amountByCasterMaxHPRatio": 0.0,
           "cdRatio": ""
         },
         {
           "$type": "HealHP",
           "target": "Target",
           "cdDelta": true,
-          "LKDJMGOJHAH": 300.0,
+          "amount": 300.0,
           "cdRatio": ""
         }
       ],
@@ -190,7 +190,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.07999999821186066,
+              "amountByCasterMaxHPRatio": 0.07999999821186066,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -199,7 +199,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 210.0,
+              "amount": 210.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -214,7 +214,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.09000000357627869,
+              "amountByCasterMaxHPRatio": 0.09000000357627869,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -223,7 +223,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 260.0,
+              "amount": 260.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -238,7 +238,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -247,7 +247,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -262,7 +262,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.14000000059604645,
+              "amountByCasterMaxHPRatio": 0.14000000059604645,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -271,7 +271,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 350.0,
+              "amount": 350.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -286,7 +286,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1.0,
+              "amount": 1.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -295,7 +295,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1.0,
+              "amount": 1.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -310,7 +310,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.18000000715255737,
+              "amountByCasterMaxHPRatio": 0.18000000715255737,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -319,7 +319,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -334,7 +334,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -343,7 +343,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 390.0,
+              "amount": 390.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -358,7 +358,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.2199999988079071,
+              "amountByCasterMaxHPRatio": 0.2199999988079071,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -367,7 +367,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 470.0,
+              "amount": 470.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -382,7 +382,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.25999999046325684,
+              "amountByCasterMaxHPRatio": 0.25999999046325684,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -391,7 +391,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 570.0,
+              "amount": 570.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -406,7 +406,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.25999999046325684,
+              "amountByCasterMaxHPRatio": 0.25999999046325684,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -415,7 +415,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 450.0,
+              "amount": 450.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -430,7 +430,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.2800000011920929,
+              "amountByCasterMaxHPRatio": 0.2800000011920929,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -439,7 +439,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 620.0,
+              "amount": 620.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -454,7 +454,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.30000001192092896,
+              "amountByCasterMaxHPRatio": 0.30000001192092896,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -463,7 +463,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 790.0,
+              "amount": 790.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -478,7 +478,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.3400000035762787,
+              "amountByCasterMaxHPRatio": 0.3400000035762787,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -487,7 +487,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 980.0,
+              "amount": 980.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -506,7 +506,7 @@
                 {
                   "$type": "HealHP",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": 1.0,
+                  "amount": 1.0,
                   "ignoreAbilityProperty": true,
                   "cdRatio": ""
                 }
@@ -519,7 +519,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 10.0,
+                      "amount": 10.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -528,7 +528,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 100.0,
+                      "amount": 100.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -551,7 +551,7 @@
                 {
                   "$type": "HealHP",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": 1.0,
+                  "amount": 1.0,
                   "ignoreAbilityProperty": true,
                   "cdRatio": ""
                 }
@@ -564,7 +564,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 10.0,
+                      "amount": 10.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -573,7 +573,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 100.0,
+                      "amount": 100.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -596,7 +596,7 @@
                 {
                   "$type": "HealHP",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": 1.0,
+                  "amount": 1.0,
                   "ignoreAbilityProperty": true,
                   "cdRatio": ""
                 }
@@ -609,7 +609,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 10.0,
+                      "amount": 10.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -618,7 +618,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 100.0,
+                      "amount": 100.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -641,7 +641,7 @@
                 {
                   "$type": "HealHP",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": 1.0,
+                  "amount": 1.0,
                   "ignoreAbilityProperty": true,
                   "cdRatio": ""
                 }
@@ -654,7 +654,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 10.0,
+                      "amount": 10.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -663,7 +663,7 @@
                     {
                       "$type": "HealHP",
                       "cdDelta": true,
-                      "LKDJMGOJHAH": 100.0,
+                      "amount": 100.0,
                       "ignoreAbilityProperty": true,
                       "cdRatio": ""
                     }
@@ -681,14 +681,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 800.0,
+              "amount": 800.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.07999999821186066,
+              "amountByCasterMaxHPRatio": 0.07999999821186066,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -703,14 +703,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1000.0,
+              "amount": 1000.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.09000000357627869,
+              "amountByCasterMaxHPRatio": 0.09000000357627869,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -725,14 +725,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1200.0,
+              "amount": 1200.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -747,14 +747,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1350.0,
+              "amount": 1350.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.1599999964237213,
+              "amountByCasterMaxHPRatio": 0.1599999964237213,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -769,14 +769,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 900.0,
+              "amount": 900.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -791,14 +791,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1200.0,
+              "amount": 1200.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.2199999988079071,
+              "amountByCasterMaxHPRatio": 0.2199999988079071,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -813,14 +813,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1500.0,
+              "amount": 1500.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.23999999463558197,
+              "amountByCasterMaxHPRatio": 0.23999999463558197,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -835,14 +835,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1750.0,
+              "amount": 1750.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.30000001192092896,
+              "amountByCasterMaxHPRatio": 0.30000001192092896,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -857,14 +857,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 600.0,
+              "amount": 600.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.30000001192092896,
+              "amountByCasterMaxHPRatio": 0.30000001192092896,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -879,14 +879,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1250.0,
+              "amount": 1250.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.3199999928474426,
+              "amountByCasterMaxHPRatio": 0.3199999928474426,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -901,14 +901,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1900.0,
+              "amount": 1900.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.3400000035762787,
+              "amountByCasterMaxHPRatio": 0.3400000035762787,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -923,14 +923,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 2350.0,
+              "amount": 2350.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.4000000059604645,
+              "amountByCasterMaxHPRatio": 0.4000000059604645,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -1017,8 +1017,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "SERVER_ReHP_Modifier_lv63_1_Amount",
-              "OLMENJCGGJJ": "SERVER_ReHP_Modifier_lv63_1_Ratio",
+              "amount": "SERVER_ReHP_Modifier_lv63_1_Amount",
+              "amountByCasterMaxHPRatio": "SERVER_ReHP_Modifier_lv63_1_Ratio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -1121,8 +1121,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "SERVER_ReHP_Modifier_lv63_2_Amount",
-              "OLMENJCGGJJ": "SERVER_ReHP_Modifier_lv63_2_Ratio",
+              "amount": "SERVER_ReHP_Modifier_lv63_2_Amount",
+              "amountByCasterMaxHPRatio": "SERVER_ReHP_Modifier_lv63_2_Ratio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -1225,8 +1225,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "SERVER_ReHP_Modifier_lv63_3_Amount",
-              "OLMENJCGGJJ": "SERVER_ReHP_Modifier_lv63_3_Ratio",
+              "amount": "SERVER_ReHP_Modifier_lv63_3_Amount",
+              "amountByCasterMaxHPRatio": "SERVER_ReHP_Modifier_lv63_3_Ratio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -1329,8 +1329,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "SERVER_ReHP_Modifier_lv63_4_Amount",
-              "OLMENJCGGJJ": "SERVER_ReHP_Modifier_lv63_4_Ratio",
+              "amount": "SERVER_ReHP_Modifier_lv63_4_Amount",
+              "amountByCasterMaxHPRatio": "SERVER_ReHP_Modifier_lv63_4_Ratio",
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2188,7 +2188,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 50.0,
+              "amount": 50.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2203,7 +2203,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2218,7 +2218,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 150.0,
+              "amount": 150.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2233,14 +2233,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 150.0,
+              "amount": 150.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "cdRatio": ""
             }
           ],
@@ -2254,7 +2254,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 250.0,
+              "amount": 250.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2269,7 +2269,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 400.0,
+              "amount": 400.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2284,7 +2284,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 550.0,
+              "amount": 550.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2299,14 +2299,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 550.0,
+              "amount": 550.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.15000000596046448,
+              "amountByCasterMaxHPRatio": 0.15000000596046448,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2321,7 +2321,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 900.0,
+              "amount": 900.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2336,7 +2336,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1200.0,
+              "amount": 1200.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2351,7 +2351,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1500.0,
+              "amount": 1500.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -2366,14 +2366,14 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": 1500.0,
+              "amount": 1500.0,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             },
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "ignoreAbilityProperty": true,
               "cdRatio": ""
             }
@@ -4385,7 +4385,7 @@
                   "successActions": [
                     {
                       "$type": "HealHP",
-                      "OLMENJCGGJJ": 0.07999999821186066,
+                      "amountByCasterMaxHPRatio": 0.07999999821186066,
                       "cdRatio": ""
                     }
                   ]
@@ -4452,7 +4452,7 @@
               "onTriggerUltimateSkill": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": 0.30000001192092896,
+                  "amountByCasterMaxHPRatio": 0.30000001192092896,
                   "cdRatio": ""
                 }
               ],
@@ -4640,7 +4640,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.25,
+              "amountByCasterMaxHPRatio": 0.25,
               "cdRatio": ""
             }
           ],
@@ -4653,7 +4653,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "cdRatio": ""
             }
           ],
@@ -4666,7 +4666,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.699999988079071,
+              "amountByCasterMaxHPRatio": 0.699999988079071,
               "cdRatio": ""
             }
           ],
@@ -4784,7 +4784,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "LKDJMGOJHAH": 1.0,
+                  "amount": 1.0,
                   "cdRatio": ""
                 }
               ]

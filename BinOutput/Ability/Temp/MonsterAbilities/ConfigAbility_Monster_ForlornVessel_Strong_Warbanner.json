@@ -145,8 +145,8 @@
             {
               "$type": "LoseHP",
               "target": "Caster",
-              "LKDJMGOJHAH": 0.0,
-              "EJGDELKANMO": 0.15000000596046448,
+              "amount": 0.0,
+              "amountByCasterMaxHPRatio": 0.15000000596046448,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,

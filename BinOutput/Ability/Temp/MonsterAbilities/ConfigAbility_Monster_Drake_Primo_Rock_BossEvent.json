@@ -1019,7 +1019,7 @@
                 },
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -1034,7 +1034,7 @@
                 },
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.029999999329447746,
+                  "amountByCasterMaxHPRatio": 0.029999999329447746,
                   "MIIHJFFDKKC": ""
                 }
               ]

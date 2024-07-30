@@ -2284,8 +2284,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "Art_Heal_Const",
-              "MEEACMKOLJF": "Art_Heal_Ratio",
+              "amount": "Art_Heal_Const",
+              "amountByCasterMaxHPRatio": "Art_Heal_Ratio",
               "muteHealEffect": true,
               "cdRatio": ""
             },
@@ -2324,8 +2324,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": ["Art_Heal_Const", "Talent_Ratio", "MUL"],
-              "MEEACMKOLJF": ["Art_Heal_Ratio", "Talent_Ratio", "MUL"],
+              "amount": ["Art_Heal_Const", "Talent_Ratio", "MUL"],
+              "amountByCasterMaxHPRatio": ["Art_Heal_Ratio", "Talent_Ratio", "MUL"],
               "muteHealEffect": true,
               "cdRatio": ""
             },
@@ -2385,8 +2385,8 @@
                   "$type": "HealHP",
                   "target": "CurLocalAvatar",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": "Burst_Heal_Const",
-                  "MEEACMKOLJF": "Burst_Heal_Ratio",
+                  "amount": "Burst_Heal_Const",
+                  "amountByCasterMaxHPRatio": "Burst_Heal_Ratio",
                   "cdRatio": ""
                 },
                 {
@@ -3447,7 +3447,7 @@
           "$type": "HealHP",
           "target": "CurLocalAvatar",
           "cdDelta": true,
-          "MEEACMKOLJF": "CasterHPRatio",
+          "amountByCasterMaxHPRatio": "CasterHPRatio",
           "cdRatio": ""
         }
       ]

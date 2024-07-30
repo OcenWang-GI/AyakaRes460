@@ -1284,7 +1284,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "ResurrectUzi_Heal",
+              "amountByCasterMaxHPRatio": "ResurrectUzi_Heal",
               "cdRatio": ""
             }
           ]

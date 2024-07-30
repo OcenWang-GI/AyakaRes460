@@ -931,8 +931,8 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 450.0,
-              "OLMENJCGGJJ": 0.029999999329447746,
+              "amount": 450.0,
+              "amountByCasterMaxHPRatio": 0.029999999329447746,
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -941,8 +941,8 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 450.0,
-              "OLMENJCGGJJ": 0.029999999329447746,
+              "amount": 450.0,
+              "amountByCasterMaxHPRatio": 0.029999999329447746,
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -1249,7 +1249,7 @@
               "$type": "HealHP",
               "target": "CurTeamAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -4602,7 +4602,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.625,
+              "amountByCasterMaxHPRatio": 0.625,
               "cdRatio": ""
             },
             {
@@ -4618,7 +4618,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "cdRatio": ""
             }
           ]
@@ -4738,7 +4738,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.625,
+              "amountByCasterMaxHPRatio": 0.625,
               "cdRatio": ""
             },
             {
@@ -4754,7 +4754,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "cdRatio": ""
             }
           ]
@@ -9775,7 +9775,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]

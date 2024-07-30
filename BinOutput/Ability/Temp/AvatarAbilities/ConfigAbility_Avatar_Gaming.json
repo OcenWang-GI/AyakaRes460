@@ -1696,7 +1696,7 @@
                   "ratio": 1.0
                 }
               ],
-              "MEEACMKOLJF": "Gaming_PermanentSkill_1_Heal_HP",
+              "amountByCasterMaxHPRatio": "Gaming_PermanentSkill_1_Heal_HP",
               "cdRatio": ""
             },
             {
@@ -1709,7 +1709,7 @@
                   "ratio": 2.0
                 }
               ],
-              "MEEACMKOLJF": "Gaming_PermanentSkill_1_Heal_HP",
+              "amountByCasterMaxHPRatio": "Gaming_PermanentSkill_1_Heal_HP",
               "cdRatio": ""
             },
             {
@@ -1722,7 +1722,7 @@
                   "ratio": 3.0
                 }
               ],
-              "MEEACMKOLJF": "Gaming_PermanentSkill_1_Heal_HP",
+              "amountByCasterMaxHPRatio": "Gaming_PermanentSkill_1_Heal_HP",
               "cdRatio": ""
             },
             {
@@ -1735,7 +1735,7 @@
                   "ratio": 4.0
                 }
               ],
-              "MEEACMKOLJF": "Gaming_PermanentSkill_1_Heal_HP",
+              "amountByCasterMaxHPRatio": "Gaming_PermanentSkill_1_Heal_HP",
               "cdRatio": ""
             }
           ],
@@ -1970,7 +1970,7 @@
               "talentParam": "Gaming_Constellation_1"
             }
           ],
-          "MEEACMKOLJF": "Gaming_Constellation_1_Heal_HP",
+          "amountByCasterMaxHPRatio": "Gaming_Constellation_1_Heal_HP",
           "cdRatio": ""
         },
         {
@@ -2510,7 +2510,7 @@
         },
         {
           "$type": "HealHP",
-          "MEEACMKOLJF": "Gaming_ElementalBurst_HealHP",
+          "amountByCasterMaxHPRatio": "Gaming_ElementalBurst_HealHP",
           "cdRatio": ""
         }
       ]
@@ -4138,7 +4138,7 @@
           "successActions": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": "Gaming_SpecialFallingAttack_LoseHP",
+              "amountByCasterMaxHPRatio": "Gaming_SpecialFallingAttack_LoseHP",
               "LOMGEHKHEMK": 0.10000000149011612,
               "lethal": false,
               "MIIHJFFDKKC": ""

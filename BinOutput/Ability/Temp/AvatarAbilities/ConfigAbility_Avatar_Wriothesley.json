@@ -1376,7 +1376,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": "Wriothesley_ElementalArt_Buff_LoseHP",
+              "amountByCasterMaxHPRatio": "Wriothesley_ElementalArt_Buff_LoseHP",
               "lethal": false,
               "MIIHJFFDKKC": ""
             }
@@ -1615,7 +1615,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "MEEACMKOLJF": [
+              "amountByCasterMaxHPRatio": [
                 "Wriothesley_ExtraAttack_Buff_HealHP",
                 "Wriothesley_ExtraAttack_Buff_HealHP_Extra",
                 "ADD"

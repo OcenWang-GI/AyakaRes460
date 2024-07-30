@@ -232,7 +232,7 @@
                       "talentParam": "TasteOfCold"
                     }
                   ],
-                  "KECHKKGGAPF": "TasteOfCold",
+                  "amountByTargetCurrentHPRatio": "TasteOfCold",
                   "cdRatio": ""
                 }
               ]

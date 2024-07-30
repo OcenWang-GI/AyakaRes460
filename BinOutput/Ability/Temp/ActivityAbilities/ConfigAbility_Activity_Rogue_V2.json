@@ -101,7 +101,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "RogueV2_StrengthenNormalAttack_HealMaxHpRatio",
+              "amountByCasterMaxHPRatio": "RogueV2_StrengthenNormalAttack_HealMaxHpRatio",
               "cdRatio": ""
             }
           ]
@@ -765,7 +765,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "RogueV2_ChangeAvatarCD_HealMaxHpRatio",
+              "amountByCasterMaxHPRatio": "RogueV2_ChangeAvatarCD_HealMaxHpRatio",
               "cdRatio": ""
             }
           ]
@@ -1740,7 +1740,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "RogueV2_Blue_FallingAttack_HealMaxHpRatio",
+              "amountByCasterMaxHPRatio": "RogueV2_Blue_FallingAttack_HealMaxHpRatio",
               "cdRatio": ""
             }
           ]
@@ -2555,7 +2555,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": "RogueV2_Blue_LoseHp_HPRatio",
+              "amountByCasterMaxHPRatio": "RogueV2_Blue_LoseHp_HPRatio",
               "lethal": false,
               "MIIHJFFDKKC": ""
             }

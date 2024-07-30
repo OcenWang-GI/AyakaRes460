@@ -1327,8 +1327,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "BurstHealConst",
-              "KECHKKGGAPF": "BurstHeal",
+              "amount": "BurstHealConst",
+              "amountByTargetCurrentHPRatio": "BurstHeal",
               "cdRatio": ""
             },
             {
@@ -1431,8 +1431,8 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": "HealConst",
-              "KECHKKGGAPF": "Heal",
+              "amount": "HealConst",
+              "amountByTargetCurrentHPRatio": "Heal",
               "cdRatio": ""
             },
             {
@@ -2018,7 +2018,7 @@
                           "PHMALDNHHLD": ""
                         }
                       ],
-                      "KECHKKGGAPF": "HealByAttack",
+                      "amountByTargetCurrentHPRatio": "HealByAttack",
                       "cdRatio": ""
                     }
                   ]

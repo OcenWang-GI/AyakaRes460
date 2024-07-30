@@ -6683,7 +6683,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -6756,7 +6756,7 @@
                   "$type": "ReviveDeadAvatar",
                   "target": "CurTeamAvatars",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": "",
                   "amount": 1.0
                 },
@@ -6764,7 +6764,7 @@
                   "$type": "HealHP",
                   "target": "CurTeamAvatars",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 },
                 {

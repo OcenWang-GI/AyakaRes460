@@ -7082,7 +7082,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": "Effigy_Grass_ReviveHPStep",
+                  "amountByCasterMaxHPRatio": "Effigy_Grass_ReviveHPStep",
                   "cdRatio": ""
                 }
               ]
@@ -7448,7 +7448,7 @@
                   "ratio": "Effigy_Grass_ReviveMaxHPRatio"
                 }
               ],
-              "OLMENJCGGJJ": "Effigy_Grass_ReviveMaxHPRatio",
+              "amountByCasterMaxHPRatio": "Effigy_Grass_ReviveMaxHPRatio",
               "cdRatio": ""
             },
             {
@@ -10594,7 +10594,7 @@
                 {
                   "$type": "LoseHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": "FireStateLoseHPRatio",
+                  "amountByCasterMaxHPRatio": "FireStateLoseHPRatio",
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "MIIHJFFDKKC": ""
@@ -10646,7 +10646,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": "FireStateHealHPRatio",
+                  "amountByCasterMaxHPRatio": "FireStateHealHPRatio",
                   "cdRatio": ""
                 },
                 {
@@ -10960,7 +10960,7 @@
             {
               "$type": "HealHP",
               "target": "Target",
-              "OLMENJCGGJJ": 0.019999999552965164,
+              "amountByCasterMaxHPRatio": 0.019999999552965164,
               "cdRatio": ""
             },
             {
@@ -11133,7 +11133,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": 0.019999999552965164,
+                  "amountByCasterMaxHPRatio": 0.019999999552965164,
                   "cdRatio": ""
                 },
                 {

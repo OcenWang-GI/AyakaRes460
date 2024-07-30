@@ -358,7 +358,7 @@
               "ratio": 1.0
             }
           ],
-          "OLMENJCGGJJ": 0.30000001192092896,
+          "amountByCasterMaxHPRatio": 0.30000001192092896,
           "cdRatio": ""
         },
         {
@@ -370,7 +370,7 @@
               "ratio": 2.0
             }
           ],
-          "OLMENJCGGJJ": 0.6000000238418579,
+          "amountByCasterMaxHPRatio": 0.6000000238418579,
           "cdRatio": ""
         },
         {
@@ -382,7 +382,7 @@
               "ratio": 3.0
             }
           ],
-          "OLMENJCGGJJ": 0.8999999761581421,
+          "amountByCasterMaxHPRatio": 0.8999999761581421,
           "cdRatio": ""
         },
         {

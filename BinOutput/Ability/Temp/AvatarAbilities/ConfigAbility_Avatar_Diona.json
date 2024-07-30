@@ -3028,8 +3028,8 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": "HealHP_Const",
-              "MEEACMKOLJF": "HealHPRatio",
+              "amount": "HealHP_Const",
+              "amountByCasterMaxHPRatio": "HealHPRatio",
               "cdRatio": ""
             }
           ]

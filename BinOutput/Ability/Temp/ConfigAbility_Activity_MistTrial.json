@@ -1201,14 +1201,14 @@
             {
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
-              "OLMENJCGGJJ": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": "",
               "amount": 1.0
             },
             {
               "$type": "HealHP",
               "target": "CurTeamAvatars",
-              "MEEACMKOLJF": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": ""
             },
             {
@@ -1304,14 +1304,14 @@
           "onAdded": [
             {
               "$type": "ReviveDeadAvatar",
-              "OLMENJCGGJJ": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": "",
               "amount": 1.0
             },
             {
               "$type": "HealHP",
               "target": "CurTeamAvatars",
-              "MEEACMKOLJF": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": ""
             },
             {
@@ -3754,14 +3754,14 @@
               "$type": "HealHP",
               "target": "CurTeamAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": ""
             },
             {
               "$type": "ReviveDeadAvatar",
               "target": "CurTeamAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": "Value_Hp",
+              "amountByCasterMaxHPRatio": "Value_Hp",
               "cdRatio": "",
               "amount": 1.0
             }
@@ -4120,7 +4120,7 @@
               "$type": "HealHP",
               "target": "CurTeamAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": "Heal_Ratio",
+              "amountByCasterMaxHPRatio": "Heal_Ratio",
               "cdRatio": ""
             }
           ],

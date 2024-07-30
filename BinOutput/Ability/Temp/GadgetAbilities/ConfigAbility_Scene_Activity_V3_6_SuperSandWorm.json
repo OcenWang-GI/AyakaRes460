@@ -925,7 +925,7 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.20000000298023224,
+              "amountByCasterMaxHPRatio": 0.20000000298023224,
               "MIIHJFFDKKC": ""
             }
           ],
@@ -2421,7 +2421,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "muteHealEffect": true,
               "cdRatio": ""
             },

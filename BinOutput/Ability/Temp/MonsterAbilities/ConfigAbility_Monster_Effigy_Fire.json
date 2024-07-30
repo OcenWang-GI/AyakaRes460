@@ -763,7 +763,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             },
@@ -848,7 +848,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             }
@@ -1010,7 +1010,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             },
@@ -1095,7 +1095,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             }
@@ -1257,7 +1257,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             },
@@ -1342,7 +1342,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "GGLMMJHNGMO": "Effigy_Fire_ReviveHPStep"
+                  "amountByTargetMaxHPRatio": "Effigy_Fire_ReviveHPStep"
                 }
               ]
             }

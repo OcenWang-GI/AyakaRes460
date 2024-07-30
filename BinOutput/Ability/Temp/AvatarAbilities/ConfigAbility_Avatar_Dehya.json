@@ -3531,7 +3531,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "TimelyHp_Ratio",
+              "amountByCasterMaxHPRatio": "TimelyHp_Ratio",
               "cdRatio": ""
             },
             {
@@ -3544,7 +3544,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "HotHp_Ratio",
+              "amountByCasterMaxHPRatio": "HotHp_Ratio",
               "cdRatio": ""
             }
           ]
@@ -3830,7 +3830,7 @@
             },
             {
               "$type": "HealHP",
-              "MEEACMKOLJF": "Heal_Ratio",
+              "amountByCasterMaxHPRatio": "Heal_Ratio",
               "cdRatio": ""
             }
           ],

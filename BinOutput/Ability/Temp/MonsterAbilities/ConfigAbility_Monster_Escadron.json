@@ -2578,7 +2578,7 @@
                   "successActions": [
                     {
                       "$type": "LoseHP",
-                      "MEEACMKOLJF": 0.05000000074505806,
+                      "amountByCasterMaxHPRatio": 0.05000000074505806,
                       "lethal": false,
                       "MIIHJFFDKKC": ""
                     }
@@ -2586,7 +2586,7 @@
                   "failActions": [
                     {
                       "$type": "LoseHP",
-                      "MEEACMKOLJF": 0.019999999552965164,
+                      "amountByCasterMaxHPRatio": 0.019999999552965164,
                       "lethal": false,
                       "MIIHJFFDKKC": ""
                     }
@@ -2613,7 +2613,7 @@
                   "successActions": [
                     {
                       "$type": "LoseHP",
-                      "EJGDELKANMO": 0.25,
+                      "amountByCasterMaxHPRatio": 0.25,
                       "lethal": false,
                       "MIIHJFFDKKC": ""
                     }
@@ -2621,7 +2621,7 @@
                   "failActions": [
                     {
                       "$type": "LoseHP",
-                      "EJGDELKANMO": 0.10000000149011612,
+                      "amountByCasterMaxHPRatio": 0.10000000149011612,
                       "lethal": false,
                       "MIIHJFFDKKC": ""
                     }
@@ -4141,14 +4141,14 @@
                   "successActions": [
                     {
                       "$type": "HealHP",
-                      "MEEACMKOLJF": 0.10000000149011612,
+                      "amountByCasterMaxHPRatio": 0.10000000149011612,
                       "cdRatio": ""
                     }
                   ],
                   "failActions": [
                     {
                       "$type": "HealHP",
-                      "MEEACMKOLJF": 0.05000000074505806,
+                      "amountByCasterMaxHPRatio": 0.05000000074505806,
                       "cdRatio": ""
                     }
                   ]
@@ -4223,8 +4223,8 @@
                 {
                   "$type": "LoseHP",
                   "cdDelta": true,
-                  "LKDJMGOJHAH": 72.0,
-                  "OLMENJCGGJJ": 0.004000000189989805,
+                  "amount": 72.0,
+                  "amountByCasterMaxHPRatio": 0.004000000189989805,
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "disableWhenLoading": true,
@@ -4242,8 +4242,8 @@
                       "ratio": 0.05000000074505806
                     }
                   ],
-                  "LKDJMGOJHAH": 72.0,
-                  "OLMENJCGGJJ": 0.004000000189989805,
+                  "amount": 72.0,
+                  "amountByCasterMaxHPRatio": 0.004000000189989805,
                   "lethal": false,
                   "enableInvincible": true,
                   "enableLockHP": true,
@@ -4516,7 +4516,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "MEEACMKOLJF": 0.05000000074505806,
+                  "amountByCasterMaxHPRatio": 0.05000000074505806,
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 }
@@ -4524,7 +4524,7 @@
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "EJGDELKANMO": 0.25,
+                  "amountByCasterMaxHPRatio": 0.25,
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 }

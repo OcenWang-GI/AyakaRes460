@@ -301,7 +301,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "heal_amount",
+              "amountByCasterMaxHPRatio": "heal_amount",
               "cdRatio": ""
             },
             {

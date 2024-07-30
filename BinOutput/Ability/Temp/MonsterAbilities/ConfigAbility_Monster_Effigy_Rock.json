@@ -1669,7 +1669,7 @@
               "AMOLMKMMOME": "LessAndEqual"
             }
           ],
-          "GGLMMJHNGMO": 0.15000000596046448
+          "amountByTargetMaxHPRatio": 0.15000000596046448
         },
         {
           "$type": "HealHP",
@@ -1680,7 +1680,7 @@
               "ratio": 2.0
             }
           ],
-          "GGLMMJHNGMO": 0.30000001192092896
+          "amountByTargetMaxHPRatio": 0.30000001192092896
         },
         {
           "$type": "HealHP",
@@ -1691,7 +1691,7 @@
               "ratio": 3.0
             }
           ],
-          "GGLMMJHNGMO": 0.44999998807907104
+          "amountByTargetMaxHPRatio": 0.44999998807907104
         },
         {
           "$type": "AddGlobalValue",

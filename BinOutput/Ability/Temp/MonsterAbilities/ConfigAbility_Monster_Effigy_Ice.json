@@ -859,7 +859,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     "Effigy_Ice_ReviveHPStep",
                     "Effigy_Ice_ReviveHPStep_ExtraModifyRatio",
                     "MUL"
@@ -1020,7 +1020,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     "Effigy_Ice_ReviveHPStep",
                     "Effigy_Ice_ReviveHPStep_ExtraModifyRatio",
                     "MUL"
@@ -1049,7 +1049,7 @@
                   "ratio": 0.05000000074505806
                 }
               ],
-              "OLMENJCGGJJ": "Effigy_Ice_ReviveMaxHPRatio",
+              "amountByCasterMaxHPRatio": "Effigy_Ice_ReviveMaxHPRatio",
               "cdRatio": ""
             }
           ]

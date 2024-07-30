@@ -2835,8 +2835,8 @@
               "entityTypes": ["Avatar"]
             }
           ],
-          "LKDJMGOJHAH": "Furina_GoddessStatue_HealHP_Amount",
-          "MEEACMKOLJF": "Furina_GoddessStatue_HealHP_Ratio",
+          "amount": "Furina_GoddessStatue_HealHP_Amount",
+          "amountByCasterMaxHPRatio": "Furina_GoddessStatue_HealHP_Ratio",
           "cdRatio": "Furina_GoddessStatue"
         }
       ]
@@ -3008,7 +3008,7 @@
             {
               "$type": "LoseHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "Octopus_PreAttack_LoseHP",
+              "amountByCasterMaxHPRatio": "Octopus_PreAttack_LoseHP",
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -3446,7 +3446,7 @@
             {
               "$type": "LoseHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "SeaHorse_PreAttack_LoseHP",
+              "amountByCasterMaxHPRatio": "SeaHorse_PreAttack_LoseHP",
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -4141,7 +4141,7 @@
             {
               "$type": "LoseHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "HermitCrab_PreAttack_LoseHP",
+              "amountByCasterMaxHPRatio": "HermitCrab_PreAttack_LoseHP",
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -5902,7 +5902,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": "PermanentSkill_1_HealHPRatio",
+              "amountByCasterMaxHPRatio": "PermanentSkill_1_HealHPRatio",
               "cdRatio": ""
             }
           ]
@@ -6593,7 +6593,7 @@
             {
               "$type": "LoseHP",
               "cdDelta": true,
-              "EJGDELKANMO": "PreAttack_LoseHP",
+              "amountByCasterMaxHPRatio": "PreAttack_LoseHP",
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -6791,7 +6791,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "Furina_Constellation_2_HealHP",
+              "amountByCasterMaxHPRatio": "Furina_Constellation_2_HealHP",
               "cdRatio": ""
             },
             {

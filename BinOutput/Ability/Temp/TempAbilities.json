@@ -307,7 +307,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "healHPRatio",
+              "amountByCasterMaxHPRatio": "healHPRatio",
               "cdRatio": ""
             }
           ]
@@ -778,7 +778,7 @@
                 "campTargetType": "Alliance",
                 "SelectTargetsByShape": 1.0
               },
-              "LKDJMGOJHAH": 35.0,
+              "amount": 35.0,
               "cdRatio": ""
             },
             {
@@ -1013,7 +1013,7 @@
         {
           "$type": "HealHP",
           "target": "Target",
-          "OLMENJCGGJJ": 0.25,
+          "amountByCasterMaxHPRatio": 0.25,
           "cdRatio": ""
         }
       ]
@@ -1633,7 +1633,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "cdRatio": ""
             }
           ]

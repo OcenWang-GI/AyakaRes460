@@ -151,7 +151,7 @@
           "onRemoved": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.11999999731779099,
+              "amountByCasterMaxHPRatio": 0.11999999731779099,
               "cdRatio": ""
             }
           ]

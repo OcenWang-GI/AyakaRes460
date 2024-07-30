@@ -3465,8 +3465,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "HealOnceBase",
-              "MEEACMKOLJF": "HealOnceRatio",
+              "amount": "HealOnceBase",
+              "amountByCasterMaxHPRatio": "HealOnceRatio",
               "cdRatio": ""
             }
           ]
@@ -3710,8 +3710,8 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "HealOnAttackBase",
-              "MEEACMKOLJF": "HealOnAttackRatio",
+              "amount": "HealOnAttackBase",
+              "amountByCasterMaxHPRatio": "HealOnAttackRatio",
               "cdRatio": ""
             },
             {

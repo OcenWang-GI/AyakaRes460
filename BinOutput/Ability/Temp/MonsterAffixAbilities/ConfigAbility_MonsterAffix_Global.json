@@ -904,7 +904,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.02500000037252903,
+              "amountByCasterMaxHPRatio": 0.02500000037252903,
               "cdRatio": ""
             },
             {
@@ -2851,7 +2851,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "LOMGEHKHEMK": 0.5,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -4012,7 +4012,7 @@
                   "$type": "HKHCENMGHLH"
                 }
               ],
-              "OLMENJCGGJJ": "SelfHeal_Ratio",
+              "amountByCasterMaxHPRatio": "SelfHeal_Ratio",
               "cdRatio": ""
             },
             {

@@ -1321,7 +1321,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "MIIHJFFDKKC": ""
             }
           ]

@@ -946,7 +946,7 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -1692,7 +1692,7 @@
               "compareType": "LessAndEqual"
             }
           ],
-          "OLMENJCGGJJ": 0.15000000596046448,
+          "amountByCasterMaxHPRatio": 0.15000000596046448,
           "cdRatio": ""
         },
         {
@@ -1704,7 +1704,7 @@
               "ratio": 2.0
             }
           ],
-          "OLMENJCGGJJ": 0.30000001192092896,
+          "amountByCasterMaxHPRatio": 0.30000001192092896,
           "cdRatio": ""
         },
         {
@@ -1716,7 +1716,7 @@
               "ratio": 3.0
             }
           ],
-          "OLMENJCGGJJ": 0.44999998807907104,
+          "amountByCasterMaxHPRatio": 0.44999998807907104,
           "cdRatio": ""
         },
         {
@@ -7179,7 +7179,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "cdRatio": ""
             }
           ]
@@ -7191,7 +7191,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "cdRatio": ""
             }
           ]
@@ -7529,7 +7529,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.6000000238418579,
+              "amountByCasterMaxHPRatio": 0.6000000238418579,
               "cdRatio": ""
             }
           ]
@@ -7541,7 +7541,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.30000001192092896,
+              "amountByCasterMaxHPRatio": 0.30000001192092896,
               "cdRatio": ""
             },
             {

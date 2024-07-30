@@ -563,7 +563,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "MEEACMKOLJF": "HealHPHigh",
+                  "amountByCasterMaxHPRatio": "HealHPHigh",
                   "cdRatio": ""
                 },
                 {

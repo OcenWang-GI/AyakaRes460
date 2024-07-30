@@ -2279,7 +2279,7 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "EJGDELKANMO": "HowlingSoul_LifeCostRatio",
+              "amountByCasterMaxHPRatio": "HowlingSoul_LifeCostRatio",
               "lethal": false,
               "MIIHJFFDKKC": ""
             },

@@ -176,7 +176,7 @@
               "onGainEnergyByBall": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": 0.10000000149011612,
+                  "amountByCasterMaxHPRatio": 0.10000000149011612,
                   "cdRatio": ""
                 }
               ]
@@ -728,7 +728,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "Heal_MaxHpRatio",
+              "amountByCasterMaxHPRatio": "Heal_MaxHpRatio",
               "cdRatio": ""
             }
           ],

@@ -171,7 +171,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -202,7 +202,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -502,7 +502,7 @@
                   "$type": "ReviveAvatar",
                   "target": "CurLocalAvatar",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 }
               ],
@@ -548,7 +548,7 @@
                   "$type": "ReviveAvatar",
                   "target": "CurLocalAvatar",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 }
               ],
@@ -594,7 +594,7 @@
                   "$type": "ReviveAvatar",
                   "target": "CurLocalAvatar",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 }
               ],
@@ -640,7 +640,7 @@
                   "$type": "ReviveAvatar",
                   "target": "CurLocalAvatar",
                   "cdDelta": true,
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 }
               ],
@@ -686,7 +686,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.019999999552965164,
+              "amountByCasterMaxHPRatio": 0.019999999552965164,
               "cdRatio": ""
             },
             {
@@ -7260,7 +7260,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -7268,7 +7268,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {

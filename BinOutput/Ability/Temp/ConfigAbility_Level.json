@@ -12,7 +12,7 @@
             {
               "$type": "HealHP",
               "target": "Target",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "muteHealEffect": true,
               "cdRatio": ""
             }
@@ -1067,7 +1067,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -1104,7 +1104,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]
@@ -1141,7 +1141,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -1178,7 +1178,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]

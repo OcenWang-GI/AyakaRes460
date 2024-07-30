@@ -1439,7 +1439,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -1453,7 +1453,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.07500000298023224,
+              "amountByCasterMaxHPRatio": 0.07500000298023224,
               "cdRatio": ""
             }
           ]
@@ -1562,7 +1562,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -1576,7 +1576,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.07500000298023224,
+              "amountByCasterMaxHPRatio": 0.07500000298023224,
               "cdRatio": ""
             }
           ]
@@ -1799,7 +1799,7 @@
           "onRemoved": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]
@@ -4109,7 +4109,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "enableInvincible": true,
               "MIIHJFFDKKC": ""
             },

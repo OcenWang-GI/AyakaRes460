@@ -76,7 +76,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.125,
+              "amountByCasterMaxHPRatio": 0.125,
               "MIIHJFFDKKC": ""
             },
             {
@@ -103,7 +103,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.125,
+              "amountByCasterMaxHPRatio": 0.125,
               "MIIHJFFDKKC": ""
             },
             {
@@ -130,7 +130,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.25,
+              "amountByCasterMaxHPRatio": 0.25,
               "MIIHJFFDKKC": ""
             },
             {
@@ -157,7 +157,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.25,
+              "amountByCasterMaxHPRatio": 0.25,
               "MIIHJFFDKKC": ""
             },
             {
@@ -184,7 +184,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.25999999046325684,
+              "amountByCasterMaxHPRatio": 0.25999999046325684,
               "MIIHJFFDKKC": ""
             }
           ],

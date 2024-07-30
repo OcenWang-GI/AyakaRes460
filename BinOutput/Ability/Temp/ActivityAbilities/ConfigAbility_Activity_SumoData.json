@@ -991,7 +991,7 @@
             {
               "$type": "HealHP",
               "target": "CurLocalAvatar",
-              "MEEACMKOLJF": "HealMaxHpRatio",
+              "amountByCasterMaxHPRatio": "HealMaxHpRatio",
               "cdRatio": ""
             },
             {
@@ -1662,7 +1662,7 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": "LoseHp_Ratio",
+              "amountByCasterMaxHPRatio": "LoseHp_Ratio",
               "lethal": false,
               "MIIHJFFDKKC": ""
             }

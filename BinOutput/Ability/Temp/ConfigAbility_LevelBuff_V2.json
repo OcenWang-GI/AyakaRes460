@@ -6196,7 +6196,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -6204,7 +6204,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -6238,7 +6238,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -6246,7 +6246,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -12332,7 +12332,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -12340,7 +12340,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -12368,7 +12368,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -12376,7 +12376,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -13918,7 +13918,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -13926,7 +13926,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -13965,7 +13965,7 @@
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -13973,7 +13973,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {

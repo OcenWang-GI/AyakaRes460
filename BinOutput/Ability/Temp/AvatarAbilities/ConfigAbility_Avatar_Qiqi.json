@@ -361,8 +361,8 @@
             {
               "$type": "HealHP",
               "target": "CurLocalAvatar",
-              "LKDJMGOJHAH": "ElementalArt_HealHp_Const",
-              "KECHKKGGAPF": "ElementalArt_HealHp_Ratio",
+              "amount": "ElementalArt_HealHp_Const",
+              "amountByTargetCurrentHPRatio": "ElementalArt_HealHp_Ratio",
               "cdRatio": ""
             }
           ],
@@ -370,8 +370,8 @@
             {
               "$type": "HealHP",
               "target": "CurLocalAvatar",
-              "LKDJMGOJHAH": "ElementalArt_HealHp_Const",
-              "KECHKKGGAPF": "ElementalArt_HealHp_Ratio",
+              "amount": "ElementalArt_HealHp_Const",
+              "amountByTargetCurrentHPRatio": "ElementalArt_HealHp_Ratio",
               "cdRatio": ""
             }
           ]
@@ -527,8 +527,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "HealHP_Const_OnHittingOthers",
-              "KECHKKGGAPF": "HealHP_OnHittingOthers",
+              "amount": "HealHP_Const_OnHittingOthers",
+              "amountByTargetCurrentHPRatio": "HealHP_OnHittingOthers",
               "cdRatio": ""
             }
           ]
@@ -803,7 +803,7 @@
               "skillID": 10355
             }
           ],
-          "OLMENJCGGJJ": 0.5,
+          "amountByCasterMaxHPRatio": 0.5,
           "cdRatio": "",
           "isReviveOtherPlayerAvatar": true,
           "skillID": 10355,
@@ -863,7 +863,7 @@
           "$type": "ReviveAvatar",
           "target": "CurTeamAvatars",
           "cdDelta": true,
-          "OLMENJCGGJJ": "HealHP",
+          "amountByCasterMaxHPRatio": "HealHP",
           "cdRatio": ""
         }
       ]
@@ -1162,8 +1162,8 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "LKDJMGOJHAH": "ElementalBurst_HealHp_Const",
-              "KECHKKGGAPF": "ElementalBurst_HealHp_Ratio",
+              "amount": "ElementalBurst_HealHp_Const",
+              "amountByTargetCurrentHPRatio": "ElementalBurst_HealHp_Ratio",
               "cdRatio": ""
             }
           ]

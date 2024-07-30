@@ -1980,7 +1980,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     "BigSlime_NormalPhysicBullet_HPLoseRatio",
                     "GV_Superconductor_ExtraHPLose",
                     "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2006,7 +2006,7 @@
                   "successActions": [
                     {
                       "$type": "LoseHP",
-                      "OLMENJCGGJJ": [
+                      "amountByCasterMaxHPRatio": [
                         "BigSlime_NormalElementBullet_HPLoseRatio",
                         "GV_Superconductor_ExtraHPLose",
                         "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2031,7 +2031,7 @@
                       "successActions": [
                         {
                           "$type": "LoseHP",
-                          "OLMENJCGGJJ": [
+                          "amountByCasterMaxHPRatio": [
                             "BigSlime_Superconductor_Extra_HPLoseRatio",
                             "GV_Superconductor_ExtraHPLose",
                             "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2060,7 +2060,7 @@
                           "successActions": [
                             {
                               "$type": "LoseHP",
-                              "OLMENJCGGJJ": [
+                              "amountByCasterMaxHPRatio": [
                                 "BigSlime_Superconductor_HPLoseRatio",
                                 "GV_Superconductor_ExtraHPLose",
                                 "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2085,7 +2085,7 @@
                               "successActions": [
                                 {
                                   "$type": "LoseHP",
-                                  "OLMENJCGGJJ": [
+                                  "amountByCasterMaxHPRatio": [
                                     "BigSlime_Melt_Extra_HPLoseRatio",
                                     "GV_Superconductor_ExtraHPLose",
                                     "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2153,7 +2153,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     "BigSlime_NormalPhysicBullet_HPLoseRatio",
                     "GV_Superconductor_ExtraHPLose",
                     "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2185,7 +2185,7 @@
                           "attackTags": ["Activity_SlimeCannon_Electric"]
                         }
                       ],
-                      "OLMENJCGGJJ": [
+                      "amountByCasterMaxHPRatio": [
                         "BigSlime_NormalElementBullet_HPLoseRatio",
                         "GV_Superconductor_ExtraHPLose",
                         "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2202,7 +2202,7 @@
                           "attackTags": ["Activity_SlimeCannon_Ice"]
                         }
                       ],
-                      "OLMENJCGGJJ": [
+                      "amountByCasterMaxHPRatio": [
                         "BigSlime_NormalElementBullet_HPLoseRatio",
                         "GV_Superconductor_ExtraHPLose",
                         "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2229,7 +2229,7 @@
                       "successActions": [
                         {
                           "$type": "LoseHP",
-                          "OLMENJCGGJJ": [
+                          "amountByCasterMaxHPRatio": [
                             "BigSlime_Superconductor_Extra_HPLoseRatio",
                             "GV_Superconductor_ExtraHPLose",
                             "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2258,7 +2258,7 @@
                           "successActions": [
                             {
                               "$type": "LoseHP",
-                              "OLMENJCGGJJ": [
+                              "amountByCasterMaxHPRatio": [
                                 "BigSlime_Superconductor_HPLoseRatio",
                                 "GV_Superconductor_ExtraHPLose",
                                 "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2283,7 +2283,7 @@
                               "successActions": [
                                 {
                                   "$type": "LoseHP",
-                                  "OLMENJCGGJJ": [
+                                  "amountByCasterMaxHPRatio": [
                                     "BigSlime_Melt_Extra_HPLoseRatio",
                                     "GV_Superconductor_ExtraHPLose",
                                     "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2351,7 +2351,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": [
+                  "amountByCasterMaxHPRatio": [
                     "BigSlime_NormalPhysicBullet_HPLoseRatio",
                     "GV_Superconductor_ExtraHPLose",
                     "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2383,7 +2383,7 @@
                           "attackTags": ["Activity_SlimeCannon_Electric"]
                         }
                       ],
-                      "OLMENJCGGJJ": [
+                      "amountByCasterMaxHPRatio": [
                         "BigSlime_NormalElementBullet_HPLoseRatio",
                         "GV_Superconductor_ExtraHPLose",
                         "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2400,7 +2400,7 @@
                           "attackTags": ["Activity_SlimeCannon_Fire"]
                         }
                       ],
-                      "OLMENJCGGJJ": [
+                      "amountByCasterMaxHPRatio": [
                         "BigSlime_NormalElementBullet_HPLoseRatio",
                         "GV_Superconductor_ExtraHPLose",
                         "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2427,7 +2427,7 @@
                       "successActions": [
                         {
                           "$type": "LoseHP",
-                          "OLMENJCGGJJ": [
+                          "amountByCasterMaxHPRatio": [
                             "BigSlime_Superconductor_Extra_HPLoseRatio",
                             "GV_Superconductor_ExtraHPLose",
                             "BigSlime_Superconductor_WeakExtraHPLose",
@@ -2454,7 +2454,7 @@
                           "successActions": [
                             {
                               "$type": "LoseHP",
-                              "OLMENJCGGJJ": [
+                              "amountByCasterMaxHPRatio": [
                                 "BigSlime_Melt_Extra_HPLoseRatio",
                                 "GV_Superconductor_ExtraHPLose",
                                 "BigSlime_Superconductor_WeakExtraHPLose",

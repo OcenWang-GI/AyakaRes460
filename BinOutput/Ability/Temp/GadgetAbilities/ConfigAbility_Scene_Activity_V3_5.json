@@ -4570,7 +4570,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]
@@ -4663,7 +4663,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "cdRatio": "",
               "amount": 1.0
             },

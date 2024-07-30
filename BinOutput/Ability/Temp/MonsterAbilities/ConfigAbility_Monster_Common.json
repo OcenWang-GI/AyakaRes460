@@ -75,7 +75,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.3499999940395355,
+              "amountByCasterMaxHPRatio": 0.3499999940395355,
               "cdRatio": ""
             }
           ]

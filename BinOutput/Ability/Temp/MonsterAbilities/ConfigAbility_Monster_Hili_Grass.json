@@ -126,7 +126,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "healHPRatio",
+              "amountByCasterMaxHPRatio": "healHPRatio",
               "muteHealEffect": true,
               "cdRatio": ""
             }
@@ -135,7 +135,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": "healHPRatioRetain",
+              "amountByCasterMaxHPRatio": "healHPRatioRetain",
               "muteHealEffect": true,
               "cdRatio": ""
             }

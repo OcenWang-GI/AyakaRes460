@@ -3727,8 +3727,8 @@
                       "compareType": "NoneOrEqual"
                     }
                   ],
-                  "LKDJMGOJHAH": "LoseHP_Amount",
-                  "OLMENJCGGJJ": "LoseHP_AmountRatio",
+                  "amount": "LoseHP_Amount",
+                  "amountByCasterMaxHPRatio": "LoseHP_AmountRatio",
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "disableWhenLoading": true,
@@ -3756,8 +3756,8 @@
                       "compareType": "NoneOrEqual"
                     }
                   ],
-                  "LKDJMGOJHAH": "LoseHP_Amount",
-                  "OLMENJCGGJJ": "LoseHP_AmountRatio",
+                  "amount": "LoseHP_Amount",
+                  "amountByCasterMaxHPRatio": "LoseHP_AmountRatio",
                   "lethal": false,
                   "enableInvincible": true,
                   "enableLockHP": true,
@@ -3813,8 +3813,8 @@
                       "compareType": "NoneOrEqual"
                     }
                   ],
-                  "LKDJMGOJHAH": "LoseHP_Amount",
-                  "OLMENJCGGJJ": "LoseHP_AmountRatio",
+                  "amount": "LoseHP_Amount",
+                  "amountByCasterMaxHPRatio": "LoseHP_AmountRatio",
                   "enableInvincible": true,
                   "enableLockHP": true,
                   "disableWhenLoading": true,
@@ -3842,8 +3842,8 @@
                       "compareType": "NoneOrEqual"
                     }
                   ],
-                  "LKDJMGOJHAH": "LoseHP_Amount",
-                  "OLMENJCGGJJ": "LoseHP_AmountRatio",
+                  "amount": "LoseHP_Amount",
+                  "amountByCasterMaxHPRatio": "LoseHP_AmountRatio",
                   "lethal": false,
                   "enableInvincible": true,
                   "enableLockHP": true,

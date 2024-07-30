@@ -1277,7 +1277,7 @@
           "onThinkInterval": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "cdRatio": ""
             }
           ]
@@ -1318,7 +1318,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "LKDJMGOJHAH": "HealAmount",
+              "amount": "HealAmount",
               "cdRatio": ""
             }
           ]
@@ -1446,7 +1446,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "HealRatio",
+              "amountByCasterMaxHPRatio": "HealRatio",
               "cdRatio": ""
             }
           ]

@@ -589,7 +589,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "LKDJMGOJHAH": "HealHP_Const",
+              "amount": "HealHP_Const",
               "cdRatio": ""
             }
           ]

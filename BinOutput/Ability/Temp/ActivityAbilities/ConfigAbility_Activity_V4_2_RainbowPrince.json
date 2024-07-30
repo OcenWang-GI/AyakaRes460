@@ -583,7 +583,7 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "OLMENJCGGJJ": "WaterRing_HealHPRatio",
+              "amountByCasterMaxHPRatio": "WaterRing_HealHPRatio",
               "cdRatio": ""
             }
           ]
@@ -1267,7 +1267,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "DrainHP_Buff_LifeCostRatio",
+                  "amountByCasterMaxHPRatio": "DrainHP_Buff_LifeCostRatio",
                   "lethal": false,
                   "MIIHJFFDKKC": ""
                 }
@@ -1284,7 +1284,7 @@
             {
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
-              "OLMENJCGGJJ": "DrainHP_Buff_LifeReviveRatio",
+              "amountByCasterMaxHPRatio": "DrainHP_Buff_LifeReviveRatio",
               "cdRatio": ""
             }
           ]

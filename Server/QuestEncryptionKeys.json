@@ -147,5 +147,71 @@
   {
     "mainQuestId": 14002,
     "encryptionKey": 6996640668779218
+  },
+  // 4.1
+  {
+    "mainQuestId": 14006,
+    "encryptionKey": 9637784902652011
+  },
+  {
+    "mainQuestId": 4019,
+    "encryptionKey": 9183447191069533
+  },
+  {
+    "mainQuestId": 40126,
+    "encryptionKey": 1298862364052129
+  },
+  {
+    "mainQuestId": 4010,
+    "encryptionKey": 8170343248395864
+  },
+  {
+    "mainQuestId": 14009,
+    "encryptionKey": 6227517550733944
+  },
+  // 4.2
+  {
+    "mainQuestId": 4024,
+    "encryptionKey": 1353017463628146
+  },
+  {
+    "mainQuestId": 4022,
+    "encryptionKey": 1296761372231568
+  },
+  {
+    "mainQuestId": 14012,
+    "encryptionKey": 3442018833959466
+  },
+  // 4.3
+  {
+    "mainQuestId": 40135,
+    "encryptionKey": 7643466225116397
+  },
+  {
+    "mainQuestId": 14017,
+    "encryptionKey": 7734065023182190
+  },
+  // 4.4
+  {
+    "mainQuestId": 11035,
+    "encryptionKey": 3833054290528970
+  },
+  {
+    "mainQuestId": 40141,
+    "encryptionKey": 3622637126759726
+  },
+  // 4.5
+  {
+    "mainQuestId": 14022,
+    "encryptionKey": 9158640187902629
+  },
+  // 4.6
+  {
+    "mainQuestId": 13038,
+    "encryptionKey": 1998169752264975
+  },
+  {
+    "mainQuestId": 14026,
+    "encryptionKey": 4714295614938178
   }
 ]

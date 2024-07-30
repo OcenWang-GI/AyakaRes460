@@ -14,4 +14,4 @@ block_rects = {
 }
 
 -- 所有的区块
-blocks = {}
+blocks = { 20199 }

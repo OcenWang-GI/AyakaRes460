@@ -844,7 +844,7 @@
                   "successActions": [
                     {
                       "$type": "LoseHP",
-                      "OLMENJCGGJJ": "HpLossPerCrabShieldBullet",
+                      "amountByCasterMaxHPRatio": "HpLossPerCrabShieldBullet",
                       "MIIHJFFDKKC": ""
                     },
                     {
@@ -881,7 +881,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "HpLossPerJellyFishBomb",
+                  "amountByCasterMaxHPRatio": "HpLossPerJellyFishBomb",
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -925,7 +925,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "HpLossPerArtilleryBullet",
+                  "amountByCasterMaxHPRatio": "HpLossPerArtilleryBullet",
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -960,7 +960,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "HpLossPerEchoBullet",
+                  "amountByCasterMaxHPRatio": "HpLossPerEchoBullet",
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -995,7 +995,7 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "HpLossPerSlash",
+                  "amountByCasterMaxHPRatio": "HpLossPerSlash",
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -1055,7 +1055,7 @@
                 },
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": "HpLossPerSpraygunHit",
+                  "amountByCasterMaxHPRatio": "HpLossPerSpraygunHit",
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -1607,7 +1607,7 @@
                 },
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": "HpRecoverPerTick",
+                  "amountByCasterMaxHPRatio": "HpRecoverPerTick",
                   "cdRatio": ""
                 },
                 {
@@ -2625,7 +2625,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 },
                 {
@@ -2731,7 +2731,7 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "cdRatio": ""
                 },
                 {
@@ -11765,7 +11765,7 @@
                 },
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": ["curHp_percent", "SGV_curHp_percent", "SUB"],
+                  "amountByCasterMaxHPRatio": ["curHp_percent", "SGV_curHp_percent", "SUB"],
                   "MIIHJFFDKKC": ""
                 },
                 {
@@ -12948,7 +12948,7 @@
             {
               "$type": "LoseHP",
               "target": "SelfAttackTarget",
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,

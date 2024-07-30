@@ -4661,7 +4661,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]
@@ -8438,8 +8438,8 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 225.0,
-              "OLMENJCGGJJ": 0.014999999664723873,
+              "amount": 225.0,
+              "amountByCasterMaxHPRatio": 0.014999999664723873,
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -8448,8 +8448,8 @@
           "onThinkInterval": [
             {
               "$type": "LoseHP",
-              "LKDJMGOJHAH": 225.0,
-              "OLMENJCGGJJ": 0.014999999664723873,
+              "amount": 225.0,
+              "amountByCasterMaxHPRatio": 0.014999999664723873,
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""

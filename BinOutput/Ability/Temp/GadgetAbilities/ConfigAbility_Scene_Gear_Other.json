@@ -1611,7 +1611,7 @@
                   ]
                 }
               ],
-              "OLMENJCGGJJ": "HEAL",
+              "amountByCasterMaxHPRatio": "HEAL",
               "cdRatio": ""
             },
             {
@@ -1729,7 +1729,7 @@
                   ]
                 }
               ],
-              "OLMENJCGGJJ": "HEAL",
+              "amountByCasterMaxHPRatio": "HEAL",
               "cdRatio": ""
             },
             {
@@ -11182,7 +11182,7 @@
                 "campTargetType": "Enemy",
                 "SelectTargetsByShape": 1.0
               },
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "MIIHJFFDKKC": ""
             }
           ]
@@ -11252,7 +11252,7 @@
             },
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "MIIHJFFDKKC": ""
             }
           ]

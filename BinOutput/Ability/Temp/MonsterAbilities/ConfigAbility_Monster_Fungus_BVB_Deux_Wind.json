@@ -166,7 +166,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.125,
+              "amountByCasterMaxHPRatio": 0.125,
               "cdRatio": ""
             },
             {
@@ -276,7 +276,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.07500000298023224,
+              "amountByCasterMaxHPRatio": 0.07500000298023224,
               "cdRatio": ""
             }
           ]
@@ -303,7 +303,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "KECHKKGGAPF": 1.0,
+              "amountByTargetCurrentHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -477,7 +477,7 @@
             },
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.05999999865889549,
+              "amountByCasterMaxHPRatio": 0.05999999865889549,
               "cdRatio": ""
             }
           ]

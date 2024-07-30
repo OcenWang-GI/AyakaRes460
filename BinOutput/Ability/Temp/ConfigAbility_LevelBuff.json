@@ -2999,7 +2999,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "cdRatio": ""
             }
           ]
@@ -3140,7 +3140,7 @@
               "onTriggerUltimateSkill": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": "LevelEntity_TowerBuff_HealHpRate_P1",
+                  "amountByCasterMaxHPRatio": "LevelEntity_TowerBuff_HealHpRate_P1",
                   "cdRatio": ""
                 },
                 {
@@ -13919,8 +13919,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": "LoseHp_Amount",
-              "OLMENJCGGJJ": "LoseHp_Ratio",
+              "amount": "LoseHp_Amount",
+              "amountByCasterMaxHPRatio": "LoseHp_Ratio",
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -13947,8 +13947,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": "LoseHp_Amount",
-              "OLMENJCGGJJ": "LoseHp_Ratio",
+              "amount": "LoseHp_Amount",
+              "amountByCasterMaxHPRatio": "LoseHp_Ratio",
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,
@@ -13992,8 +13992,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": "LoseHp_Amount",
-              "OLMENJCGGJJ": "LoseHp_Ratio",
+              "amount": "LoseHp_Amount",
+              "amountByCasterMaxHPRatio": "LoseHp_Ratio",
               "lethal": false,
               "enableInvincible": true,
               "enableLockHP": true,
@@ -14019,8 +14019,8 @@
                   "compareType": "NoneOrEqual"
                 }
               ],
-              "LKDJMGOJHAH": "LoseHp_Amount",
-              "OLMENJCGGJJ": "LoseHp_Ratio",
+              "amount": "LoseHp_Amount",
+              "amountByCasterMaxHPRatio": "LoseHp_Ratio",
               "enableInvincible": true,
               "enableLockHP": true,
               "MIIHJFFDKKC": ""
@@ -14412,7 +14412,7 @@
           "onAdded": [
             {
               "$type": "LoseHP",
-              "OLMENJCGGJJ": "LifeCostRatio",
+              "amountByCasterMaxHPRatio": "LifeCostRatio",
               "MIIHJFFDKKC": ""
             }
           ]

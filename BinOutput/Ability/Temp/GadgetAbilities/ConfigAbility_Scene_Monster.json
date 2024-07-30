@@ -1665,7 +1665,7 @@
                   ]
                 }
               ],
-              "OLMENJCGGJJ": 0.5,
+              "amountByCasterMaxHPRatio": 0.5,
               "MIIHJFFDKKC": ""
             },
             {
@@ -1678,7 +1678,7 @@
                   "ratio": 1.0
                 }
               ],
-              "OLMENJCGGJJ": 0.10000000149011612,
+              "amountByCasterMaxHPRatio": 0.10000000149011612,
               "MIIHJFFDKKC": ""
             },
             {
@@ -1989,7 +1989,7 @@
             {
               "$type": "ReviveDeadAvatar",
               "target": "CurLocalAvatar",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -1997,7 +1997,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]
@@ -2159,7 +2159,7 @@
                 "campTargetType": "SelfCamp",
                 "SelectTargetsByShape": 1.0
               },
-              "OLMENJCGGJJ": 0.44999998807907104,
+              "amountByCasterMaxHPRatio": 0.44999998807907104,
               "MIIHJFFDKKC": ""
             }
           ]
@@ -2221,7 +2221,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -2300,7 +2300,7 @@
             {
               "$type": "ReviveDeadAvatar",
               "target": "AllPlayerAvatars",
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": "",
               "amount": 1.0
             },
@@ -2308,7 +2308,7 @@
               "$type": "HealHP",
               "target": "AllPlayerAvatars",
               "cdDelta": true,
-              "OLMENJCGGJJ": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             }
           ]

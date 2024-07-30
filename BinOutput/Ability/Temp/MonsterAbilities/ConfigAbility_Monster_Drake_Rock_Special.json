@@ -3532,7 +3532,7 @@
                       "compareType": "LessAndEqual"
                     }
                   ],
-                  "MEEACMKOLJF": "backLifeLineFirst",
+                  "amountByCasterMaxHPRatio": "backLifeLineFirst",
                   "cdRatio": ""
                 },
                 {
@@ -3544,7 +3544,7 @@
                       "ratio": 2.0
                     }
                   ],
-                  "MEEACMKOLJF": "backLifeLineSecond",
+                  "amountByCasterMaxHPRatio": "backLifeLineSecond",
                   "cdRatio": ""
                 },
                 {
@@ -3557,7 +3557,7 @@
                       "compareType": "MoreThanAndEqual"
                     }
                   ],
-                  "MEEACMKOLJF": "backLifeLineThird",
+                  "amountByCasterMaxHPRatio": "backLifeLineThird",
                   "cdRatio": ""
                 },
                 {

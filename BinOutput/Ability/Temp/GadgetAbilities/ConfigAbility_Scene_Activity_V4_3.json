@@ -621,14 +621,14 @@
               "successActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": 1.0,
+                  "amountByCasterMaxHPRatio": 1.0,
                   "MIIHJFFDKKC": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "LoseHP",
-                  "OLMENJCGGJJ": 0.5099999904632568,
+                  "amountByCasterMaxHPRatio": 0.5099999904632568,
                   "MIIHJFFDKKC": ""
                 }
               ]

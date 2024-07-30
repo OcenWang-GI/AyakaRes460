@@ -888,7 +888,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "cdRatio": ""
             }
           ]
@@ -916,7 +916,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 200.0,
+              "amount": 200.0,
               "cdRatio": ""
             }
           ]
@@ -944,7 +944,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "cdRatio": ""
             }
           ]
@@ -1641,7 +1641,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 100.0,
+              "amount": 100.0,
               "cdRatio": ""
             }
           ]
@@ -1669,7 +1669,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 200.0,
+              "amount": 200.0,
               "cdRatio": ""
             }
           ]
@@ -1697,7 +1697,7 @@
               "$type": "HealHP",
               "target": "Target",
               "cdDelta": true,
-              "LKDJMGOJHAH": 300.0,
+              "amount": 300.0,
               "cdRatio": ""
             }
           ]
@@ -2305,14 +2305,14 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 1.5, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 1.5, "MUL"],
                   "cdRatio": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 1.0, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 1.0, "MUL"],
                   "cdRatio": ""
                 }
               ]
@@ -2345,14 +2345,14 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 3.0, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 3.0, "MUL"],
                   "cdRatio": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 2.0, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 2.0, "MUL"],
                   "cdRatio": ""
                 }
               ]
@@ -2385,14 +2385,14 @@
               "successActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 6.0, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 6.0, "MUL"],
                   "cdRatio": ""
                 }
               ],
               "failActions": [
                 {
                   "$type": "HealHP",
-                  "OLMENJCGGJJ": ["RecoverRatio", 4.0, "MUL"],
+                  "amountByCasterMaxHPRatio": ["RecoverRatio", 4.0, "MUL"],
                   "cdRatio": ""
                 }
               ]
@@ -2524,7 +2524,7 @@
                 {
                   "$type": "LoseHP",
                   "target": "CurLocalAvatar",
-                  "OLMENJCGGJJ": "LoseHPRatio",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio",
                   "MIIHJFFDKKC": ""
                 }
               ],
@@ -2572,7 +2572,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "RecoverRatio",
+              "amountByCasterMaxHPRatio": "RecoverRatio",
               "cdRatio": ""
             }
           ]
@@ -2673,7 +2673,7 @@
                 {
                   "$type": "LoseHP",
                   "target": "CurLocalAvatar",
-                  "OLMENJCGGJJ": "LoseHPRatio",
+                  "amountByCasterMaxHPRatio": "LoseHPRatio",
                   "MIIHJFFDKKC": ""
                 }
               ],
@@ -2721,7 +2721,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "RecoverRatio",
+              "amountByCasterMaxHPRatio": "RecoverRatio",
               "cdRatio": ""
             }
           ]

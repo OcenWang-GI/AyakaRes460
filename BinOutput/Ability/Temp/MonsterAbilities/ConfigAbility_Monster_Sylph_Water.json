@@ -922,7 +922,7 @@
                   "entityTypes": ["Monster"]
                 }
               ],
-              "OLMENJCGGJJ": "HealPercent",
+              "amountByCasterMaxHPRatio": "HealPercent",
               "cdRatio": ""
             },
             {
@@ -1460,7 +1460,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "HealHPRatio",
+              "amountByCasterMaxHPRatio": "HealHPRatio",
               "cdRatio": ""
             }
           ]
@@ -1705,7 +1705,7 @@
           "onAdded": [
             {
               "$type": "HealHP",
-              "OLMENJCGGJJ": "HealHPRatio",
+              "amountByCasterMaxHPRatio": "HealHPRatio",
               "cdRatio": ""
             },
             {

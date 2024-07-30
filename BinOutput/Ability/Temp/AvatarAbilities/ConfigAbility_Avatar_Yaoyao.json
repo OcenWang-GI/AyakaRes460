@@ -2191,8 +2191,8 @@
                       "PHMALDNHHLD": ""
                     }
                   ],
-                  "LKDJMGOJHAH": "Yaoyao_Turnip_ElementalBurst_HealHp_Amount",
-                  "MEEACMKOLJF": "Yaoyao_Turnip_ElementalBurst_HealHp_Ratio",
+                  "amount": "Yaoyao_Turnip_ElementalBurst_HealHp_Amount",
+                  "amountByCasterMaxHPRatio": "Yaoyao_Turnip_ElementalBurst_HealHp_Ratio",
                   "cdRatio": ""
                 }
               ],
@@ -2253,8 +2253,8 @@
                       "entityTypes": ["Avatar"]
                     }
                   ],
-                  "LKDJMGOJHAH": "Yaoyao_Turnip_ElementalArt_HealHp_Amount",
-                  "MEEACMKOLJF": "Yaoyao_Turnip_ElementalArt_HealHp_Ratio",
+                  "amount": "Yaoyao_Turnip_ElementalArt_HealHp_Amount",
+                  "amountByCasterMaxHPRatio": "Yaoyao_Turnip_ElementalArt_HealHp_Ratio",
                   "cdRatio": ""
                 }
               ]
@@ -2745,8 +2745,8 @@
                   "PHMALDNHHLD": ""
                 }
               ],
-              "LKDJMGOJHAH": "Yaoyao_Turnip_ElementalBurst_HealHp_Amount",
-              "MEEACMKOLJF": "Yaoyao_Turnip_ElementalBurst_HealHp_Ratio",
+              "amount": "Yaoyao_Turnip_ElementalBurst_HealHp_Amount",
+              "amountByCasterMaxHPRatio": "Yaoyao_Turnip_ElementalBurst_HealHp_Ratio",
               "cdRatio": ""
             }
           ],
@@ -2805,8 +2805,8 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": "Yaoyao_Turnip_ElementalArt_HealHp_Amount",
-              "MEEACMKOLJF": "Yaoyao_Turnip_ElementalArt_HealHp_Ratio",
+              "amount": "Yaoyao_Turnip_ElementalArt_HealHp_Amount",
+              "amountByCasterMaxHPRatio": "Yaoyao_Turnip_ElementalArt_HealHp_Ratio",
               "cdRatio": ""
             }
           ]
@@ -2972,7 +2972,7 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "MEEACMKOLJF": "Yaoyao_Constellation_6_HealHp_Ratio",
+              "amountByCasterMaxHPRatio": "Yaoyao_Constellation_6_HealHp_Ratio",
               "cdRatio": ""
             },
             {
@@ -3228,7 +3228,7 @@
               "entityTypes": ["Avatar"]
             }
           ],
-          "MEEACMKOLJF": "Yaoyao_Constellation_6_HealHp_Ratio",
+          "amountByCasterMaxHPRatio": "Yaoyao_Constellation_6_HealHp_Ratio",
           "cdRatio": ""
         }
       ]
@@ -4779,7 +4779,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "MEEACMKOLJF": "Yaoyao_PermanentSkill_2_Hot_Ratio",
+              "amountByCasterMaxHPRatio": "Yaoyao_PermanentSkill_2_Hot_Ratio",
               "cdRatio": ""
             }
           ],

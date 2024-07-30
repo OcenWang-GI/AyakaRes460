@@ -168,14 +168,14 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": [
+              "amount": [
                 20.469999313354492,
                 "ElectricWaterAreaHurtLevel",
                 "MUL",
                 20.0,
                 "ADD"
               ],
-              "OLMENJCGGJJ": [
+              "amountByCasterMaxHPRatio": [
                 0.03150000050663948,
                 "ElectricWaterAreaHurtLevel",
                 "MUL",
@@ -446,8 +446,8 @@
                   "entityTypes": ["Avatar"]
                 }
               ],
-              "LKDJMGOJHAH": 60.0,
-              "OLMENJCGGJJ": 0.004000000189989805,
+              "amount": 60.0,
+              "amountByCasterMaxHPRatio": 0.004000000189989805,
               "enableInvincible": true,
               "enableLockHP": true,
               "disableWhenLoading": true,

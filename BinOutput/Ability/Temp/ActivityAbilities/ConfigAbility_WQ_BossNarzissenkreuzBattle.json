@@ -93,7 +93,7 @@
             {
               "$type": "HealHP",
               "target": "Applier",
-              "MEEACMKOLJF": 1.0,
+              "amountByCasterMaxHPRatio": 1.0,
               "cdRatio": ""
             },
             {
@@ -111,7 +111,7 @@
             {
               "$type": "HealHP",
               "target": "Applier",
-              "MEEACMKOLJF": 0.05000000074505806,
+              "amountByCasterMaxHPRatio": 0.05000000074505806,
               "cdRatio": ""
             }
           ]
@@ -651,7 +651,7 @@
             {
               "$type": "HealHP",
               "cdDelta": true,
-              "OLMENJCGGJJ": 0.30000001192092896,
+              "amountByCasterMaxHPRatio": 0.30000001192092896,
               "cdRatio": ""
             },
             {

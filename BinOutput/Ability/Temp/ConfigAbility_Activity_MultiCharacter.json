@@ -1759,7 +1759,7 @@
                 {
                   "$type": "HealHP",
                   "target": "Target",
-                  "OLMENJCGGJJ": "HealRatio",
+                  "amountByCasterMaxHPRatio": "HealRatio",
                   "cdRatio": ""
                 }
               ]
@@ -1914,7 +1914,7 @@
                   "$type": "HKHCENMGHLH"
                 }
               ],
-              "OLMENJCGGJJ": "SelfHeal_Ratio",
+              "amountByCasterMaxHPRatio": "SelfHeal_Ratio",
               "cdRatio": ""
             },
             {
