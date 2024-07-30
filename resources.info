@@ -1,0 +1,7 @@
+repo:dispatchcnglobal.yuanshen.mba:8423
+ver:4.6.0
+patches:Amber,Custom
+scripts:official
+hasnolocals:true
+hasserverres:true
+hasscenescriptdata:true
