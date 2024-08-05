@@ -17095,6 +17095,7 @@
     "requiredPlayerLevel": 50
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteAudio": "",
     "costItems": [
@@ -17106,278 +17107,196 @@
     "unlockMaxLevel": 20,
     "addProps": [
       {
-        "propType": "FIGHT_PROP_BASE_HP"
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 5000
       },
       {
-        "propType": "FIGHT_PROP_BASE_DEFENSE"
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 999
       },
       {
-        "propType": "FIGHT_PROP_BASE_ATTACK"
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": -45
       },
       {
-        "propType": "FIGHT_PROP_CRITICAL"
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 9.99
       }
     ]
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 1,
     "promoteAudio": "",
-    "scoinCost": 20000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104151,
-        "count": 1
-      },
-      {},
-      {
-        "id": 101213,
-        "count": 3
-      },
-      {
-        "id": 112044,
-        "count": 3
-      }
     ],
     "unlockMaxLevel": 40,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 678.4301
+        "value": -100
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 40.527
+        "value": -100
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 21.870405
+        "value": -100
       },
       {
-        "propType": "FIGHT_PROP_CRITICAL"
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": -10
       }
     ],
-    "requiredPlayerLevel": 15
+    "requiredPlayerLevel": 1
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 2,
     "promoteAudio": "",
-    "scoinCost": 40000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104152,
-        "count": 3
-      },
-      {
-        "id": 113038,
-        "count": 2
-      },
-      {
-        "id": 101213,
-        "count": 10
-      },
-      {
-        "id": 112044,
-        "count": 15
-      }
     ],
     "unlockMaxLevel": 50,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 1160.4725
+        "value": -200
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 69.3225
+        "value": -200
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 37.409904
+        "value": -200
       },
       {
         "propType": "FIGHT_PROP_CRITICAL",
-        "value": 0.048
+        "value": -20
       }
     ],
-    "requiredPlayerLevel": 25
+    "requiredPlayerLevel": 1
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 3,
     "promoteAudio": "",
-    "scoinCost": 60000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104152,
-        "count": 6
-      },
-      {
-        "id": 113038,
-        "count": 4
-      },
-      {
-        "id": 101213,
-        "count": 20
-      },
-      {
-        "id": 112045,
-        "count": 12
-      }
     ],
     "unlockMaxLevel": 60,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 1803.1959
+        "value": -300
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 107.7165
+        "value": -300
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 58.12924
+        "value": -300
       },
       {
         "propType": "FIGHT_PROP_CRITICAL",
-        "value": 0.096
+        "value": -30
       }
     ],
-    "requiredPlayerLevel": 30
+    "requiredPlayerLevel": 1
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 4,
     "promoteAudio": "",
-    "scoinCost": 80000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104153,
-        "count": 3
-      },
-      {
-        "id": 113038,
-        "count": 8
-      },
-      {
-        "id": 101213,
-        "count": 30
-      },
-      {
-        "id": 112045,
-        "count": 18
-      }
     ],
     "unlockMaxLevel": 70,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 2285.2383
+        "value": -400
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 136.512
+        "value": -400
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 73.66874
+        "value": -400
       },
       {
         "propType": "FIGHT_PROP_CRITICAL",
-        "value": 0.096
+        "value": -40
       }
     ],
-    "requiredPlayerLevel": 35
+    "requiredPlayerLevel": 1
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 5,
     "promoteAudio": "",
-    "scoinCost": 100000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104153,
-        "count": 6
-      },
-      {
-        "id": 113038,
-        "count": 12
-      },
-      {
-        "id": 101213,
-        "count": 45
-      },
-      {
-        "id": 112046,
-        "count": 12
-      }
     ],
     "unlockMaxLevel": 80,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 2767.2808
+        "value": -500
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 165.3075
+        "value": -500
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 89.20824
+        "value": -500
       },
       {
         "propType": "FIGHT_PROP_CRITICAL",
-        "value": 0.144
+        "value": -50
       }
     ],
-    "requiredPlayerLevel": 40
+    "requiredPlayerLevel": 1
   },
   {
+    "name": "流浪者",
     "avatarPromoteId": 75,
     "promoteLevel": 6,
     "promoteAudio": "",
-    "scoinCost": 120000,
+    "scoinCost": 0,
     "costItems": [
-      {
-        "id": 104154,
-        "count": 6
-      },
-      {
-        "id": 113038,
-        "count": 20
-      },
-      {
-        "id": 101213,
-        "count": 60
-      },
-      {
-        "id": 112046,
-        "count": 24
-      }
     ],
     "unlockMaxLevel": 90,
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_HP",
-        "value": 3249.3232
+        "value": -4000
       },
       {
         "propType": "FIGHT_PROP_BASE_DEFENSE",
-        "value": 194.103
+        "value": -9999
       },
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 104.747734
+        "value": -9999
       },
       {
         "propType": "FIGHT_PROP_CRITICAL",
-        "value": 0.192
+        "value": -9999
       }
     ],
-    "requiredPlayerLevel": 50
+    "requiredPlayerLevel": 1
   },
   {
     "avatarPromoteId": 76,
