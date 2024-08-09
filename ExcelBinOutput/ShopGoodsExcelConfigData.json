@@ -1,0 +1,33 @@
+[
+  {
+    "goodsId": 102001,
+    "subTagNameTextMapHash": 2459557210,
+    "subTabId": 1,
+    "shopType": 1001,
+    "itemId": 223,
+    "itemCount": 1,
+    "costHcoin": 160,
+    "costItems": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "limitStrategyList": [
+      {}
+    ],
+    "refreshType": "SHOP_REFRESH_MONTHLY",
+    "refreshParam": 1,
+    "beginTime": "2019-12-01 00:00:00",
+    "endTime": "2035-01-01 00:00:00",
+    "preconditionParamList": [
+      "",
+      ""
+    ],
+    "minShowLevel": 1,
+    "minPlayerLevel": 1,
+    "maxPlayerLevel": 99,
+    "sortLevel": 1,
+    "platformTypeList": []
+  }
+]
